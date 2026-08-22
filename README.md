@@ -15,9 +15,11 @@
 ## 📌 Power BI & Web Dashboard Previews
 
 <div align="center">
-  <img width="900" alt="Power BI Executive Dashboard" src="Screenshots/Screenshot 2026-08-02 232659.png" />
+  <img width="900" alt="Power BI Executive Dashboard" src="<img width="1895" height="901" alt="Screenshot 2026-08-22 165921" src="https://github.com/user-attachments/assets/10a3f359-0376-47e5-981a-7e0eb0e05adc" />
+" />
   <p><em>Figure 1: Executive KPI & Geospatial Incident Dashboard (Power BI Desktop Report)</em></p>
-  <img width="900" alt="Departmental Deep Dive" src="Screenshots/Screenshot 2026-08-02 232828.png" />
+  <img width="900" alt="Departmental Deep Dive" src="<img width="1393" height="678" alt="Screenshot 2026-08-22 170130" src="https://github.com/user-attachments/assets/3821e525-0ba8-4b7c-a23d-12867b68424b" />
+" />
   <p><em>Figure 2: Departmental Turnaround & Priority Distribution Analysis</em></p>
 </div>
 
