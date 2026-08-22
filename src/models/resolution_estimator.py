@@ -14,7 +14,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from src.core.config import RESOLUTION_MODEL_PATH
+from src.core.config import FEATURE_CSV_PATH, RESOLUTION_MODEL_PATH
 from src.core.logger import get_logger
 
 logger = get_logger("ResolutionEstimator")
@@ -121,7 +121,15 @@ class ResolutionEstimator:
         """Loads regression model artifact."""
         if not path.exists():
             raise FileNotFoundError(f"Model file not found at: {path}")
-        data = joblib.load(path)
+        try:
+            data = joblib.load(path)
+        except (AttributeError, ModuleNotFoundError, ValueError) as error:
+            logger.warning(
+                "Incompatible resolution model artifact (%s); retraining from feature data.",
+                error,
+            )
+            self.train_and_evaluate(pd.read_csv(FEATURE_CSV_PATH))
+            return self
         self.model = data["model"]
         self.metrics = data["metrics"]
         return self

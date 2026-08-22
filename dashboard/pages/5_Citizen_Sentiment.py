@@ -2,9 +2,20 @@
 Page 5: Citizen Sentiment, Satisfaction Drivers & Feedback Analytics.
 """
 
+import sys
+from pathlib import Path
+
+FILE_DIR = Path(__file__).resolve().parent
+ROOT_DIR = FILE_DIR.parent.parent
+for path in [ROOT_DIR, FILE_DIR.parent, FILE_DIR]:
+    if str(path) not in sys.path:
+        sys.path.insert(0, str(path))
+
 import streamlit as st
 import pandas as pd
+import numpy as np
 import plotly.express as px
+import plotly.graph_objects as go
 from dashboard.utils import load_data, apply_custom_css, get_filtered_data, render_ai_copilot_sidebar
 
 st.set_page_config(page_title="Citizen Sentiment - Civic Analytics", page_icon="⭐", layout="wide")
@@ -62,10 +73,28 @@ with col2:
         x="Resolution_Time_Days",
         y="Citizen_Rating",
         color="Priority",
-        trendline="ols",
         labels={"Resolution_Time_Days": "Resolution Turnaround (Days)", "Citizen_Rating": "Rating (1-5)"},
         color_discrete_map={"High": "#ef4444", "Medium": "#f59e0b", "Low": "#10b981"},
     )
+    trendline_df = rated_df[["Resolution_Time_Days", "Citizen_Rating"]].dropna()
+    if len(trendline_df) >= 2 and trendline_df["Resolution_Time_Days"].nunique() > 1:
+        coefficients = np.polyfit(
+            trendline_df["Resolution_Time_Days"], trendline_df["Citizen_Rating"], 1
+        )
+        x_line = np.linspace(
+            trendline_df["Resolution_Time_Days"].min(),
+            trendline_df["Resolution_Time_Days"].max(),
+            100,
+        )
+        fig_scatter.add_trace(
+            go.Scatter(
+                x=x_line,
+                y=np.polyval(coefficients, x_line),
+                mode="lines",
+                name="Trendline",
+                line={"color": "#334155", "dash": "dash"},
+            )
+        )
     fig_scatter.update_layout(height=380)
     st.plotly_chart(fig_scatter, use_container_width=True)
 

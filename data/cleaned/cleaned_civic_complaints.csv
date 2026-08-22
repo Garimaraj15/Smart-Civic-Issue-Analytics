@@ -7,7 +7,7 @@ CMP0005,2026-06-14,North,Ward-15,Dum Dum,Sewer Problem,Sewer Department,High,Ope
 CMP0006,2026-02-21,North,Ward-13,Shyambazar,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-02-24,4.0,22.534155,88.304983,Pending
 CMP0007,2026-05-01,East,Ward-30,New Town,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-05-05,5.0,22.544373,88.480463,Material Awaited
 CMP0008,2026-01-31,West,Ward-22,Behala,Road Damage,Road Department,Medium,Open,Rajesh Kumar,,,22.642195,88.368737,Work Completed
-CMP0009,2026-02-12,South,Ward-12,Tollygunge,Traffic Signal Fault,Traffic Department,Medium,Resolved,Deepak Bose,2026-02-17,5.0,22.65145,88.286609,Team Assigned
+CMP0009,2026-12-02,South,Ward-12,Tollygunge,Traffic Signal Fault,Traffic Department,Medium,Resolved,Deepak Bose,2026-02-17,5.0,22.65145,88.286609,Team Assigned
 CMP0010,2026-05-25,North,Ward-21,Dum Dum,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.650545,88.343983,Team Assigned
 CMP0011,2026-01-02,West,Ward-7,Behala,Sewer Problem,Sewer Department,Low,In Progress,Anil Shaw,,,22.622199,88.432137,Team Assigned
 CMP0012,2026-01-07,West,Ward-19,Behala,Garbage Overflow,Sanitation Department,High,Open,Pooja Sen,,,22.680582,88.377925,Repaired
@@ -26,31 +26,31 @@ CMP0024,2026-05-29,Central,Ward-27,Esplanade,Garbage Overflow,Sanitation Departm
 CMP0025,2026-06-22,North,Ward-4,Dum Dum,Park Maintenance,Parks Department,Low,In Progress,Arjun Roy,,,22.454405,88.470711,Pending
 CMP0026,2026-06-01,South,Ward-15,Tollygunge,Drain Blockage,Sewer Department,High,Open,Vikram Das,,,22.685645,88.329814,Work Completed
 CMP0027,2026-06-13,West,Ward-22,Behala,Pothole,Road Department,Low,Open,Suresh Roy,,,22.529615,88.47903,Repaired
-CMP0028,2026-05-04,South,Ward-1,Garia,Street Light Fault,Electricity Department,High,Resolved,Karan Paul,2026-05-08,3.0,22.615585,88.312398,Material Awaited
+CMP0028,2026-04-05,South,Ward-1,Garia,Street Light Fault,Electricity Department,High,Resolved,Karan Paul,2026-05-08,3.0,22.615585,88.312398,Material Awaited
 CMP0029,2026-04-29,South,Ward-27,Tollygunge,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.54119,88.262413,Team Assigned
 CMP0030,2026-04-04,North,Ward-24,Shyambazar,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.632178,88.475518,Team Assigned
 CMP0031,2026-03-10,Central,Ward-21,Park Street,Sewer Problem,Sewer Department,Low,Resolved,Vikram Das,2026-03-18,4.0,22.453689,88.30584,Pending
 CMP0032,2026-02-28,West,Ward-8,Santragachi,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.580584,88.455704,Team Assigned
-CMP0033,2026-01-11,Central,Ward-6,Esplanade,Illegal Dumping,Sanitation Department,Medium,Open,Neha Gupta,,,22.667986,88.393366,Pending
+CMP0033,2026-11-01,Central,Ward-6,Esplanade,Illegal Dumping,Sanitation Department,Medium,Open,Neha Gupta,,,22.667986,88.393366,Pending
 CMP0034,2026-02-23,South,Ward-9,Tollygunge,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.520902,88.470582,Verified
 CMP0035,2026-03-23,Central,Ward-9,Esplanade,Drain Blockage,Sewer Department,Medium,In Progress,Vikram Das,,,22.608422,88.284927,Work Completed
 CMP0036,2026-01-05,West,Ward-9,Behala,Water Leakage,Water Department,Low,In Progress,Rohit Das,,,22.509257,88.343421,Material Awaited
 CMP0037,2026-03-26,Central,Ward-30,Park Street,Park Maintenance,Parks Department,Low,In Progress,Arjun Roy,,,22.621263,88.450549,Pending
-CMP0038,2026-05-06,South,Ward-30,Garia,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.574408,88.465808,Work Completed
+CMP0038,2026-06-05,South,Ward-30,Garia,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.574408,88.465808,Work Completed
 CMP0039,2026-03-07,East,Ward-3,Salt Lake,Pothole,Road Department,Low,In Progress,Rajesh Kumar,,,22.634891,88.49317,Team Assigned
 CMP0040,2026-05-26,West,Ward-24,Santragachi,Sewer Problem,Sewer Department,Medium,Open,Vikram Das,,,22.522113,88.334684,Inspection Pending
 CMP0041,2026-01-11,South,Ward-3,Tollygunge,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.56561,88.429241,Pending
-CMP0042,2026-03-06,North,Ward-24,Shyambazar,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-03-14,3.0,22.609428,88.271204,Inspection Pending
+CMP0042,2026-06-03,North,Ward-24,Shyambazar,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-03-14,3.0,22.609428,88.271204,Inspection Pending
 CMP0043,2026-01-30,West,Ward-11,Santragachi,Road Damage,Road Department,Low,Open,Rajesh Kumar,,,22.546857,88.40419,Team Assigned
 CMP0044,2026-06-26,West,Ward-29,Santragachi,Water Leakage,Water Department,Medium,In Progress,Rohit Das,,,22.500056,88.416658,Inspection Pending
 CMP0045,2026-02-09,Central,Ward-15,Park Street,Road Damage,Road Department,High,Open,Suresh Roy,,,22.480308,88.265166,Pending
-CMP0046,2026-01-03,South,Ward-20,Garia,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.489101,88.428689,Work Completed
+CMP0046,2026-03-01,South,Ward-20,Garia,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.489101,88.428689,Work Completed
 CMP0047,2026-05-10,North,Ward-12,Shyambazar,Garbage Overflow,Sanitation Department,Medium,Open,Neha Gupta,,,22.691918,88.489173,Work Completed
 CMP0048,2026-05-05,East,Ward-29,Salt Lake,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-05-13,4.0,22.496714,88.306456,Repaired
-CMP0049,2026-04-02,North,Ward-29,Shyambazar,Street Light Fault,Electricity Department,High,Open,Amit Singh,,,22.612905,88.462222,Repaired
+CMP0049,2026-02-04,North,Ward-29,Shyambazar,Street Light Fault,Electricity Department,High,Open,Amit Singh,,,22.612905,88.462222,Repaired
 CMP0050,2026-02-16,North,Ward-11,Dum Dum,Water Leakage,Water Department,Medium,Open,Priya Sharma,,,22.54097,88.454334,Material Awaited
 CMP0051,2026-03-01,East,Ward-3,New Town,Road Damage,Road Department,Medium,In Progress,Suresh Roy,,,22.66023,88.254077,Repaired
-CMP0052,2026-03-10,Central,Ward-16,Esplanade,Pothole,Road Department,Low,In Progress,Suresh Roy,,,22.653433,88.398061,Team Assigned
+CMP0052,2026-10-03,Central,Ward-16,Esplanade,Pothole,Road Department,Low,In Progress,Suresh Roy,,,22.653433,88.398061,Team Assigned
 CMP0053,2026-04-13,Central,Ward-8,Park Street,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-04-20,4.0,22.528857,88.377678,Team Assigned
 CMP0054,2026-01-01,East,Ward-16,New Town,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.629701,88.350918,Material Awaited
 CMP0055,2026-06-19,North,Ward-18,Dum Dum,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.462871,88.320478,Inspection Pending
@@ -59,7 +59,7 @@ CMP0057,2026-04-20,West,Ward-12,Behala,Garbage Overflow,Sanitation Department,Lo
 CMP0058,2026-01-18,South,Ward-14,Tollygunge,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-01-23,3.0,22.622016,88.351243,Work Completed
 CMP0059,2026-03-12,West,Ward-22,Santragachi,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-03-18,4.0,22.539758,88.270935,Inspection Pending
 CMP0060,2026-03-13,West,Ward-11,Santragachi,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.517121,88.324119,Repaired
-CMP0061,2026-03-06,East,Ward-22,New Town,Road Damage,Road Department,High,Open,Rajesh Kumar,,,22.479017,88.498248,Team Assigned
+CMP0061,2026-06-03,East,Ward-22,New Town,Road Damage,Road Department,High,Open,Rajesh Kumar,,,22.479017,88.498248,Team Assigned
 CMP0062,2026-02-04,Central,Ward-10,Park Street,Drain Blockage,Sewer Department,High,In Progress,Vikram Das,,,22.504188,88.327087,Material Awaited
 CMP0063,2026-05-09,East,Ward-28,New Town,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-05-17,4.0,22.625888,88.294463,Team Assigned
 CMP0064,2026-06-23,East,Ward-8,Salt Lake,Road Damage,Road Department,Low,Resolved,Rajesh Kumar,2026-07-02,5.0,22.455099,88.340276,Material Awaited
@@ -76,10 +76,10 @@ CMP0074,2026-03-04,South,Ward-28,Tollygunge,Traffic Signal Fault,Traffic Departm
 CMP0075,2026-03-27,East,Ward-18,Salt Lake,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-04-04,4.0,22.637611,88.404454,Inspection Pending
 CMP0076,2026-04-07,West,Ward-7,Behala,Park Maintenance,Parks Department,High,Resolved,Sonia Ghosh,2026-04-17,4.0,22.694598,88.472863,Pending
 CMP0077,2026-05-21,Central,Ward-27,Park Street,Traffic Signal Fault,Traffic Department,Medium,In Progress,Deepak Bose,,,22.473129,88.351731,Verified
-CMP0078,2026-01-06,East,Ward-18,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-01-09,5.0,22.485907,88.308001,Pending
+CMP0078,2026-06-01,East,Ward-18,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-01-09,5.0,22.485907,88.308001,Pending
 CMP0079,2026-04-17,North,Ward-18,Shyambazar,Drain Blockage,Sewer Department,High,Open,Vikram Das,,,22.559704,88.353583,Repaired
-CMP0080,2026-02-02,North,Ward-28,Dum Dum,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-02-12,5.0,22.450044,88.454738,Work Completed
-CMP0081,2026-05-04,North,Ward-23,Dum Dum,Park Maintenance,Parks Department,Low,Open,Sonia Ghosh,,,22.686601,88.374449,Inspection Pending
+CMP0080,2026-02-02,North,Ward-28,Dum Dum,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-12-02,5.0,22.450044,88.454738,Work Completed
+CMP0081,2026-04-05,North,Ward-23,Dum Dum,Park Maintenance,Parks Department,Low,Open,Sonia Ghosh,,,22.686601,88.374449,Inspection Pending
 CMP0082,2026-01-14,West,Ward-23,Behala,Illegal Dumping,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.507107,88.330822,Verified
 CMP0083,2026-06-06,West,Ward-7,Behala,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.468662,88.344396,Work Completed
 CMP0084,2026-03-25,East,Ward-17,Salt Lake,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-04-01,3.0,22.667604,88.27727,Material Awaited
@@ -99,13 +99,13 @@ CMP0097,2026-06-08,Central,Ward-25,Esplanade,Road Damage,Road Department,Medium,
 CMP0098,2026-02-16,Central,Ward-10,Esplanade,Water Leakage,Water Department,High,Open,Priya Sharma,,,22.678755,88.331189,Verified
 CMP0099,2026-05-21,East,Ward-17,New Town,Street Light Fault,Electricity Department,Medium,Resolved,Karan Paul,2026-05-26,3.0,22.607242,88.37252,Work Completed
 CMP0100,2026-04-26,East,Ward-28,New Town,Pothole,Road Department,Low,Open,Rajesh Kumar,,,22.695319,88.453484,Work Completed
-CMP0101,2026-06-01,South,Ward-25,Tollygunge,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.518791,88.279704,Team Assigned
+CMP0101,2026-01-06,South,Ward-25,Tollygunge,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.518791,88.279704,Team Assigned
 CMP0102,2026-03-23,South,Ward-20,Tollygunge,Street Light Fault,Electricity Department,High,Resolved,Karan Paul,2026-03-30,4.0,22.576369,88.296999,Team Assigned
 CMP0103,2026-04-18,South,Ward-5,Garia,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.678988,88.404045,Repaired
 CMP0104,2026-03-01,East,Ward-27,Salt Lake,Illegal Dumping,Sanitation Department,High,In Progress,Pooja Sen,,,22.546333,88.354594,Inspection Pending
-CMP0105,2026-06-08,East,Ward-15,Salt Lake,Pothole,Road Department,High,Resolved,Suresh Roy,2026-06-09,3.0,22.667251,88.311529,Inspection Pending
+CMP0105,2026-08-06,East,Ward-15,Salt Lake,Pothole,Road Department,High,Resolved,Suresh Roy,2026-09-06,3.0,22.667251,88.311529,Inspection Pending
 CMP0106,2026-06-08,South,Ward-12,Tollygunge,Water Leakage,Water Department,Low,In Progress,Priya Sharma,,,22.639228,88.368797,Material Awaited
-CMP0107,2026-01-02,South,Ward-12,Garia,Pothole,Road Department,High,Resolved,Rajesh Kumar,2026-01-06,5.0,22.491172,88.378214,Work Completed
+CMP0107,2026-02-01,South,Ward-12,Garia,Pothole,Road Department,High,Resolved,Rajesh Kumar,2026-01-06,5.0,22.491172,88.378214,Work Completed
 CMP0108,2026-02-03,Central,Ward-27,Esplanade,Garbage Overflow,Sanitation Department,Medium,Resolved,Pooja Sen,2026-02-08,5.0,22.465543,88.395164,Inspection Pending
 CMP0109,2026-04-29,North,Ward-18,Shyambazar,Park Maintenance,Parks Department,Medium,Open,Sonia Ghosh,,,22.674157,88.358703,Material Awaited
 CMP0110,2026-05-10,West,Ward-27,Behala,Drain Blockage,Sewer Department,Medium,Resolved,Vikram Das,2026-05-17,5.0,22.464539,88.419954,Team Assigned
@@ -113,17 +113,17 @@ CMP0111,2026-05-04,West,Ward-5,Santragachi,Illegal Dumping,Sanitation Department
 CMP0112,2026-03-17,East,Ward-11,New Town,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-03-22,3.0,22.603357,88.413296,Verified
 CMP0113,2026-02-21,North,Ward-26,Shyambazar,Drain Blockage,Sewer Department,Medium,In Progress,Vikram Das,,,22.490508,88.326366,Material Awaited
 CMP0114,2026-06-08,Central,Ward-7,Esplanade,Traffic Signal Fault,Traffic Department,High,Open,Deepak Bose,,,22.535966,88.304334,Verified
-CMP0115,2026-04-07,South,Ward-4,Tollygunge,Pothole,Road Department,High,Open,Suresh Roy,,,22.486254,88.456323,Work Completed
+CMP0115,2026-07-04,South,Ward-4,Tollygunge,Pothole,Road Department,High,Open,Suresh Roy,,,22.486254,88.456323,Work Completed
 CMP0116,2026-04-21,West,Ward-16,Behala,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.626096,88.276421,Inspection Pending
-CMP0117,2026-04-12,Central,Ward-13,Esplanade,Park Maintenance,Parks Department,Medium,Open,Sonia Ghosh,,,22.684749,88.373555,Verified
-CMP0118,2026-05-02,North,Ward-29,Shyambazar,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.490999,88.38625,Inspection Pending
+CMP0117,2026-12-04,Central,Ward-13,Esplanade,Park Maintenance,Parks Department,Medium,Open,Sonia Ghosh,,,22.684749,88.373555,Verified
+CMP0118,2026-02-05,North,Ward-29,Shyambazar,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.490999,88.38625,Inspection Pending
 CMP0119,2026-01-13,North,Ward-26,Dum Dum,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.657643,88.39257,Work Completed
 CMP0120,2026-06-11,South,Ward-25,Tollygunge,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.606299,88.468712,Material Awaited
 CMP0121,2026-03-24,West,Ward-12,Behala,Sewer Problem,Sewer Department,Low,Open,Anil Shaw,,,22.63064,88.402401,Repaired
 CMP0122,2026-01-30,West,Ward-13,Behala,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.635016,88.467141,Work Completed
 CMP0123,2026-01-15,West,Ward-1,Santragachi,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-01-20,4.0,22.467453,88.413402,Work Completed
 CMP0124,2026-02-23,North,Ward-27,Dum Dum,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.683971,88.492152,Work Completed
-CMP0125,2026-01-04,East,Ward-23,Salt Lake,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-01-12,3.0,22.60314,88.463508,Inspection Pending
+CMP0125,2026-04-01,East,Ward-23,Salt Lake,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-01-12,3.0,22.60314,88.463508,Inspection Pending
 CMP0126,2026-02-20,East,Ward-25,New Town,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.640541,88.392523,Work Completed
 CMP0127,2026-05-18,South,Ward-16,Tollygunge,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.535251,88.496761,Inspection Pending
 CMP0128,2026-06-25,Central,Ward-2,Park Street,Park Maintenance,Parks Department,High,Resolved,Arjun Roy,2026-06-30,5.0,22.525401,88.308961,Team Assigned
@@ -137,12 +137,12 @@ CMP0135,2026-06-26,South,Ward-15,Garia,Illegal Dumping,Sanitation Department,Hig
 CMP0136,2026-01-18,North,Ward-4,Shyambazar,Water Leakage,Water Department,Medium,Open,Rohit Das,,,22.525359,88.273108,Repaired
 CMP0137,2026-03-10,South,Ward-8,Tollygunge,Street Light Fault,Electricity Department,High,Resolved,Amit Singh,2026-03-20,4.0,22.650613,88.313522,Team Assigned
 CMP0138,2026-06-15,East,Ward-23,Salt Lake,Garbage Overflow,Sanitation Department,Low,Resolved,Pooja Sen,2026-06-19,4.0,22.473132,88.389448,Verified
-CMP0139,2026-06-08,West,Ward-10,Santragachi,Illegal Dumping,Sanitation Department,Medium,Open,Pooja Sen,,,22.519651,88.252064,Team Assigned
+CMP0139,2026-08-06,West,Ward-10,Santragachi,Illegal Dumping,Sanitation Department,Medium,Open,Pooja Sen,,,22.519651,88.252064,Team Assigned
 CMP0140,2026-04-09,North,Ward-19,Dum Dum,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.685201,88.26397,Work Completed
 CMP0141,2026-03-22,South,Ward-13,Tollygunge,Water Leakage,Water Department,High,Open,Rohit Das,,,22.691379,88.479065,Pending
 CMP0142,2026-04-28,East,Ward-30,New Town,Illegal Dumping,Sanitation Department,High,In Progress,Pooja Sen,,,22.482367,88.394106,Repaired
 CMP0143,2026-01-31,East,Ward-29,New Town,Park Maintenance,Parks Department,High,Open,Sonia Ghosh,,,22.458175,88.453474,Inspection Pending
-CMP0144,2026-05-12,East,Ward-1,Salt Lake,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-05-13,5.0,22.66047,88.447323,Team Assigned
+CMP0144,2026-12-05,East,Ward-1,Salt Lake,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-05-13,5.0,22.66047,88.447323,Team Assigned
 CMP0145,2026-05-04,North,Ward-8,Shyambazar,Illegal Dumping,Sanitation Department,Medium,Open,Neha Gupta,,,22.477074,88.312589,Repaired
 CMP0146,2026-05-27,West,Ward-26,Santragachi,Illegal Dumping,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.543219,88.385722,Material Awaited
 CMP0147,2026-05-13,East,Ward-30,New Town,Road Damage,Road Department,High,In Progress,Suresh Roy,,,22.683432,88.317831,Verified
@@ -162,10 +162,10 @@ CMP0160,2026-03-15,South,Ward-20,Garia,Drain Blockage,Sewer Department,Low,In Pr
 CMP0161,2026-06-23,Central,Ward-27,Park Street,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-06-24,5.0,22.586226,88.401994,Team Assigned
 CMP0162,2026-06-10,North,Ward-24,Shyambazar,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-06-19,3.0,22.569089,88.254876,Material Awaited
 CMP0163,2026-02-26,South,Ward-30,Tollygunge,Park Maintenance,Parks Department,High,Resolved,Arjun Roy,2026-03-03,5.0,22.455945,88.378497,Pending
-CMP0164,2026-04-09,East,Ward-24,New Town,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.674306,88.273006,Repaired
-CMP0165,2026-02-07,West,Ward-5,Behala,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-02-08,4.0,22.66414,88.374408,Verified
+CMP0164,2026-09-04,East,Ward-24,New Town,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.674306,88.273006,Repaired
+CMP0165,2026-07-02,West,Ward-5,Behala,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-08-02,4.0,22.66414,88.374408,Verified
 CMP0166,2026-01-10,Central,Ward-1,Esplanade,Road Damage,Road Department,High,Open,Suresh Roy,,,22.451885,88.499042,Verified
-CMP0167,2026-02-01,East,Ward-10,New Town,Drain Blockage,Sewer Department,Medium,Resolved,Anil Shaw,2026-02-04,3.0,22.569654,88.283781,Inspection Pending
+CMP0167,2026-02-01,East,Ward-10,New Town,Drain Blockage,Sewer Department,Medium,Resolved,Anil Shaw,2026-04-02,3.0,22.569654,88.283781,Inspection Pending
 CMP0168,2026-05-16,South,Ward-27,Garia,Garbage Overflow,Sanitation Department,Low,Open,Neha Gupta,,,22.583575,88.284827,Pending
 CMP0169,2026-04-14,West,Ward-27,Behala,Illegal Dumping,Sanitation Department,Medium,Open,Pooja Sen,,,22.519533,88.28452,Material Awaited
 CMP0170,2026-06-08,West,Ward-17,Behala,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-06-18,3.0,22.655509,88.328147,Inspection Pending
@@ -184,7 +184,7 @@ CMP0182,2026-06-11,North,Ward-24,Dum Dum,Illegal Dumping,Sanitation Department,H
 CMP0183,2026-02-08,Central,Ward-13,Park Street,Garbage Overflow,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.520729,88.430011,Verified
 CMP0184,2026-05-17,West,Ward-7,Behala,Illegal Dumping,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.583113,88.405028,Pending
 CMP0185,2026-03-18,East,Ward-8,New Town,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-03-26,4.0,22.455559,88.347815,Verified
-CMP0186,2026-03-10,West,Ward-11,Santragachi,Water Leakage,Water Department,Medium,Open,Rohit Das,,,22.563598,88.39765,Pending
+CMP0186,2026-10-03,West,Ward-11,Santragachi,Water Leakage,Water Department,Medium,Open,Rohit Das,,,22.563598,88.39765,Pending
 CMP0187,2026-06-27,West,Ward-1,Santragachi,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-06-30,3.0,22.590643,88.26433,Work Completed
 CMP0188,2026-05-29,North,Ward-27,Dum Dum,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.588007,88.297934,Repaired
 CMP0189,2026-01-31,East,Ward-23,Salt Lake,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.576128,88.254167,Material Awaited
@@ -204,11 +204,11 @@ CMP0202,2026-04-09,South,Ward-1,Garia,Illegal Dumping,Sanitation Department,Low,
 CMP0203,2026-01-18,East,Ward-10,New Town,Sewer Problem,Sewer Department,Low,In Progress,Vikram Das,,,22.622279,88.326396,Work Completed
 CMP0204,2026-02-18,West,Ward-17,Santragachi,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.533191,88.296216,Team Assigned
 CMP0205,2026-01-14,East,Ward-21,Salt Lake,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.495476,88.320055,Verified
-CMP0206,2026-01-30,East,Ward-11,New Town,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-02-08,4.0,22.540317,88.315947,Repaired
+CMP0206,2026-01-30,East,Ward-11,New Town,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-08-02,4.0,22.540317,88.315947,Repaired
 CMP0207,2026-04-24,East,Ward-7,Salt Lake,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.502427,88.315443,Verified
 CMP0208,2026-05-02,North,Ward-29,Dum Dum,Sewer Problem,Sewer Department,High,Open,Anil Shaw,,,22.605042,88.491236,Material Awaited
-CMP0209,2026-03-08,South,Ward-14,Garia,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.563822,88.283162,Verified
-CMP0210,2026-06-01,West,Ward-20,Behala,Traffic Signal Fault,Traffic Department,High,Resolved,Deepak Bose,2026-06-02,5.0,22.499283,88.304201,Material Awaited
+CMP0209,2026-08-03,South,Ward-14,Garia,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.563822,88.283162,Verified
+CMP0210,2026-01-06,West,Ward-20,Behala,Traffic Signal Fault,Traffic Department,High,Resolved,Deepak Bose,2026-02-06,5.0,22.499283,88.304201,Material Awaited
 CMP0211,2026-03-27,East,Ward-15,New Town,Road Damage,Road Department,High,In Progress,Rajesh Kumar,,,22.509769,88.392722,Team Assigned
 CMP0212,2026-05-01,North,Ward-28,Dum Dum,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-05-05,5.0,22.563642,88.340917,Inspection Pending
 CMP0213,2026-05-13,Central,Ward-26,Park Street,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.58277,88.274267,Pending
@@ -219,10 +219,10 @@ CMP0217,2026-01-23,North,Ward-11,Dum Dum,Sewer Problem,Sewer Department,Low,In P
 CMP0218,2026-04-18,West,Ward-17,Behala,Traffic Signal Fault,Traffic Department,Low,In Progress,Rahul Sen,,,22.615729,88.479659,Repaired
 CMP0219,2026-03-18,South,Ward-27,Tollygunge,Drain Blockage,Sewer Department,Medium,Resolved,Vikram Das,2026-03-21,4.0,22.608018,88.324654,Material Awaited
 CMP0220,2026-02-17,Central,Ward-2,Esplanade,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.597373,88.386383,Team Assigned
-CMP0221,2026-05-02,North,Ward-1,Shyambazar,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-05-04,5.0,22.662307,88.419279,Inspection Pending
+CMP0221,2026-02-05,North,Ward-1,Shyambazar,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-04-05,5.0,22.662307,88.419279,Inspection Pending
 CMP0222,2026-06-18,East,Ward-2,New Town,Park Maintenance,Parks Department,High,Open,Arjun Roy,,,22.658679,88.256664,Inspection Pending
 CMP0223,2026-03-18,South,Ward-30,Garia,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-03-20,5.0,22.693122,88.291816,Work Completed
-CMP0224,2026-02-07,East,Ward-27,New Town,Road Damage,Road Department,High,In Progress,Rajesh Kumar,,,22.636169,88.295192,Verified
+CMP0224,2026-07-02,East,Ward-27,New Town,Road Damage,Road Department,High,In Progress,Rajesh Kumar,,,22.636169,88.295192,Verified
 CMP0225,2026-04-28,Central,Ward-12,Park Street,Street Light Fault,Electricity Department,Low,In Progress,Karan Paul,,,22.6721,88.305624,Pending
 CMP0226,2026-01-26,West,Ward-13,Behala,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.608753,88.363345,Pending
 CMP0227,2026-03-20,East,Ward-5,New Town,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.647181,88.420366,Repaired
@@ -244,31 +244,31 @@ CMP0242,2026-04-17,Central,Ward-25,Esplanade,Park Maintenance,Parks Department,H
 CMP0243,2026-01-15,West,Ward-19,Behala,Street Light Fault,Electricity Department,Low,Open,Karan Paul,,,22.482692,88.270646,Pending
 CMP0244,2026-03-05,South,Ward-13,Tollygunge,Drain Blockage,Sewer Department,High,In Progress,Anil Shaw,,,22.617151,88.355896,Verified
 CMP0245,2026-01-30,Central,Ward-21,Park Street,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-02-04,5.0,22.546542,88.41691,Pending
-CMP0246,2026-05-08,South,Ward-6,Garia,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.649719,88.490993,Work Completed
+CMP0246,2026-08-05,South,Ward-6,Garia,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.649719,88.490993,Work Completed
 CMP0247,2026-03-06,Central,Ward-28,Park Street,Park Maintenance,Parks Department,Low,In Progress,Arjun Roy,,,22.584507,88.287768,Material Awaited
 CMP0248,2026-03-26,North,Ward-4,Shyambazar,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-03-29,5.0,22.48914,88.438352,Inspection Pending
 CMP0249,2026-03-19,South,Ward-20,Garia,Garbage Overflow,Sanitation Department,Low,Resolved,Neha Gupta,2026-03-21,4.0,22.603618,88.340346,Pending
-CMP0250,2026-06-11,East,Ward-30,New Town,Pothole,Road Department,High,Open,Suresh Roy,,,22.602123,88.369965,Material Awaited
-CMP0251,2026-01-04,West,Ward-4,Behala,Garbage Overflow,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.488913,88.425739,Pending
-CMP0252,2026-02-05,East,Ward-30,Salt Lake,Street Light Fault,Electricity Department,Low,Resolved,Amit Singh,2026-02-14,4.0,22.476753,88.305577,Repaired
+CMP0250,2026-11-06,East,Ward-30,New Town,Pothole,Road Department,High,Open,Suresh Roy,,,22.602123,88.369965,Material Awaited
+CMP0251,2026-04-01,West,Ward-4,Behala,Garbage Overflow,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.488913,88.425739,Pending
+CMP0252,2026-05-02,East,Ward-30,Salt Lake,Street Light Fault,Electricity Department,Low,Resolved,Amit Singh,2026-02-14,4.0,22.476753,88.305577,Repaired
 CMP0253,2026-06-24,West,Ward-23,Behala,Traffic Signal Fault,Traffic Department,High,Open,Rahul Sen,,,22.598897,88.455294,Repaired
 CMP0254,2026-05-08,East,Ward-17,Salt Lake,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.629137,88.32597,Inspection Pending
 CMP0255,2026-05-05,West,Ward-20,Behala,Traffic Signal Fault,Traffic Department,Low,Resolved,Deepak Bose,2026-05-13,5.0,22.474904,88.426866,Inspection Pending
 CMP0256,2026-03-19,South,Ward-6,Tollygunge,Road Damage,Road Department,High,Resolved,Rajesh Kumar,2026-03-23,5.0,22.619367,88.437318,Material Awaited
 CMP0257,2026-05-07,North,Ward-3,Shyambazar,Pothole,Road Department,High,Open,Rajesh Kumar,,,22.517895,88.434501,Team Assigned
-CMP0258,2026-05-03,Central,Ward-27,Park Street,Illegal Dumping,Sanitation Department,Low,In Progress,Neha Gupta,,,22.54769,88.443785,Work Completed
-CMP0259,2026-02-07,South,Ward-23,Tollygunge,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.634289,88.479927,Work Completed
+CMP0258,2026-03-05,Central,Ward-27,Park Street,Illegal Dumping,Sanitation Department,Low,In Progress,Neha Gupta,,,22.54769,88.443785,Work Completed
+CMP0259,2026-07-02,South,Ward-23,Tollygunge,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.634289,88.479927,Work Completed
 CMP0260,2026-01-15,East,Ward-20,Salt Lake,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.638585,88.292678,Inspection Pending
-CMP0261,2026-04-07,South,Ward-8,Garia,Pothole,Road Department,Low,Open,Suresh Roy,,,22.535862,88.348708,Verified
+CMP0261,2026-07-04,South,Ward-8,Garia,Pothole,Road Department,Low,Open,Suresh Roy,,,22.535862,88.348708,Verified
 CMP0262,2026-01-29,West,Ward-15,Behala,Park Maintenance,Parks Department,High,Resolved,Sonia Ghosh,2026-02-01,5.0,22.556449,88.41327,Material Awaited
 CMP0263,2026-03-17,South,Ward-6,Garia,Street Light Fault,Electricity Department,High,Resolved,Karan Paul,2026-03-20,3.0,22.58632,88.428646,Team Assigned
 CMP0264,2026-06-04,South,Ward-23,Tollygunge,Water Leakage,Water Department,High,In Progress,Rohit Das,,,22.592855,88.335776,Team Assigned
 CMP0265,2026-06-24,West,Ward-24,Behala,Drain Blockage,Sewer Department,Medium,Open,Anil Shaw,,,22.476464,88.454761,Team Assigned
 CMP0266,2026-03-10,East,Ward-7,Salt Lake,Water Leakage,Water Department,Medium,In Progress,Rohit Das,,,22.509788,88.27108,Inspection Pending
 CMP0267,2026-01-03,West,Ward-16,Behala,Sewer Problem,Sewer Department,Medium,Open,Vikram Das,,,22.613552,88.310221,Repaired
-CMP0268,2026-05-08,South,Ward-26,Tollygunge,Garbage Overflow,Sanitation Department,High,Open,Pooja Sen,,,22.583958,88.359166,Inspection Pending
+CMP0268,2026-08-05,South,Ward-26,Tollygunge,Garbage Overflow,Sanitation Department,High,Open,Pooja Sen,,,22.583958,88.359166,Inspection Pending
 CMP0269,2026-06-24,East,Ward-3,New Town,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.592923,88.481691,Material Awaited
-CMP0270,2026-05-04,East,Ward-21,Salt Lake,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-05-10,3.0,22.493649,88.353239,Repaired
+CMP0270,2026-04-05,East,Ward-21,Salt Lake,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-05-10,3.0,22.493649,88.353239,Repaired
 CMP0271,2026-05-17,East,Ward-25,New Town,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.658896,88.407035,Repaired
 CMP0272,2026-03-30,East,Ward-19,Salt Lake,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-04-05,4.0,22.586088,88.408565,Pending
 CMP0273,2026-01-14,North,Ward-6,Shyambazar,Sewer Problem,Sewer Department,Low,In Progress,Anil Shaw,,,22.607781,88.390947,Pending
@@ -281,15 +281,15 @@ CMP0279,2026-06-29,East,Ward-28,Salt Lake,Street Light Fault,Electricity Departm
 CMP0280,2026-04-13,Central,Ward-13,Park Street,Garbage Overflow,Sanitation Department,Medium,Open,Neha Gupta,,,22.640263,88.467033,Material Awaited
 CMP0281,2026-03-13,Central,Ward-4,Esplanade,Pothole,Road Department,Medium,Open,Suresh Roy,,,22.453708,88.366041,Repaired
 CMP0282,2026-02-23,North,Ward-28,Shyambazar,Illegal Dumping,Sanitation Department,Medium,Open,Neha Gupta,,,22.464718,88.484147,Inspection Pending
-CMP0283,2026-04-12,South,Ward-28,Garia,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-04-14,5.0,22.69091,88.335591,Inspection Pending
+CMP0283,2026-12-04,South,Ward-28,Garia,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-04-14,5.0,22.69091,88.335591,Inspection Pending
 CMP0284,2026-02-03,West,Ward-30,Behala,Park Maintenance,Parks Department,Medium,In Progress,Arjun Roy,,,22.462032,88.374106,Verified
 CMP0285,2026-03-10,West,Ward-7,Behala,Illegal Dumping,Sanitation Department,Low,In Progress,Neha Gupta,,,22.567331,88.412833,Team Assigned
 CMP0286,2026-02-17,North,Ward-11,Shyambazar,Sewer Problem,Sewer Department,High,In Progress,Anil Shaw,,,22.689155,88.258189,Repaired
-CMP0287,2026-06-12,Central,Ward-5,Park Street,Water Leakage,Water Department,Medium,In Progress,Rohit Das,,,22.497115,88.271517,Team Assigned
+CMP0287,2026-12-06,Central,Ward-5,Park Street,Water Leakage,Water Department,Medium,In Progress,Rohit Das,,,22.497115,88.271517,Team Assigned
 CMP0288,2026-05-24,East,Ward-14,New Town,Water Leakage,Water Department,Medium,Open,Priya Sharma,,,22.452647,88.487621,Pending
 CMP0289,2026-02-27,West,Ward-11,Santragachi,Street Light Fault,Electricity Department,Low,Open,Karan Paul,,,22.66697,88.397608,Repaired
-CMP0290,2026-04-02,South,Ward-5,Garia,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.643467,88.457022,Team Assigned
-CMP0291,2026-03-03,South,Ward-5,Garia,Sewer Problem,Sewer Department,High,Resolved,Vikram Das,2026-03-11,3.0,22.611248,88.283335,Pending
+CMP0290,2026-02-04,South,Ward-5,Garia,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.643467,88.457022,Team Assigned
+CMP0291,2026-03-03,South,Ward-5,Garia,Sewer Problem,Sewer Department,High,Resolved,Vikram Das,2026-11-03,3.0,22.611248,88.283335,Pending
 CMP0292,2026-03-25,East,Ward-27,New Town,Traffic Signal Fault,Traffic Department,High,Open,Deepak Bose,,,22.678423,88.275714,Material Awaited
 CMP0293,2026-01-11,South,Ward-9,Tollygunge,Park Maintenance,Parks Department,Low,In Progress,Arjun Roy,,,22.683736,88.397258,Repaired
 CMP0294,2026-06-26,West,Ward-27,Behala,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-07-04,5.0,22.45013,88.381505,Work Completed
@@ -305,14 +305,14 @@ CMP0303,2026-05-17,North,Ward-5,Dum Dum,Water Leakage,Water Department,Medium,Op
 CMP0304,2026-04-04,East,Ward-14,Salt Lake,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-04-09,3.0,22.694775,88.429528,Team Assigned
 CMP0305,2026-04-24,North,Ward-23,Shyambazar,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-04-30,3.0,22.540084,88.298603,Pending
 CMP0306,2026-03-14,South,Ward-5,Garia,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-03-16,3.0,22.669386,88.4259,Material Awaited
-CMP0307,2026-01-04,South,Ward-5,Tollygunge,Street Light Fault,Electricity Department,Medium,Open,Karan Paul,,,22.607526,88.315567,Material Awaited
+CMP0307,2026-04-01,South,Ward-5,Tollygunge,Street Light Fault,Electricity Department,Medium,Open,Karan Paul,,,22.607526,88.315567,Material Awaited
 CMP0308,2026-06-06,Central,Ward-27,Park Street,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.571498,88.357844,Pending
 CMP0309,2026-02-10,North,Ward-24,Dum Dum,Water Leakage,Water Department,Medium,In Progress,Rohit Das,,,22.683757,88.350056,Inspection Pending
-CMP0310,2026-04-09,North,Ward-24,Shyambazar,Sewer Problem,Sewer Department,High,Open,Anil Shaw,,,22.527241,88.29981,Verified
+CMP0310,2026-09-04,North,Ward-24,Shyambazar,Sewer Problem,Sewer Department,High,Open,Anil Shaw,,,22.527241,88.29981,Verified
 CMP0311,2026-03-13,North,Ward-30,Dum Dum,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-03-18,3.0,22.681085,88.288591,Inspection Pending
 CMP0312,2026-03-23,Central,Ward-16,Esplanade,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.475345,88.41226,Material Awaited
 CMP0313,2026-01-06,East,Ward-16,Salt Lake,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-01-16,5.0,22.490647,88.45348,Repaired
-CMP0314,2026-06-02,East,Ward-28,New Town,Sewer Problem,Sewer Department,Medium,Resolved,Vikram Das,2026-06-09,3.0,22.669018,88.44323,Inspection Pending
+CMP0314,2026-02-06,East,Ward-28,New Town,Sewer Problem,Sewer Department,Medium,Resolved,Vikram Das,2026-09-06,3.0,22.669018,88.44323,Inspection Pending
 CMP0315,2026-05-10,North,Ward-20,Shyambazar,Drain Blockage,Sewer Department,High,In Progress,Anil Shaw,,,22.655725,88.268858,Work Completed
 CMP0316,2026-04-22,Central,Ward-6,Esplanade,Road Damage,Road Department,High,Open,Suresh Roy,,,22.581432,88.39755,Inspection Pending
 CMP0317,2026-02-10,South,Ward-11,Tollygunge,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.671314,88.266452,Verified
@@ -338,7 +338,7 @@ CMP0336,2026-05-24,North,Ward-7,Shyambazar,Park Maintenance,Parks Department,Low
 CMP0337,2026-05-10,South,Ward-3,Garia,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.595274,88.306475,Work Completed
 CMP0338,2026-01-18,West,Ward-17,Behala,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.588254,88.257337,Work Completed
 CMP0339,2026-04-28,North,Ward-15,Shyambazar,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.656664,88.32355,Team Assigned
-CMP0340,2026-04-11,East,Ward-10,New Town,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.59798,88.495552,Inspection Pending
+CMP0340,2026-11-04,East,Ward-10,New Town,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.59798,88.495552,Inspection Pending
 CMP0341,2026-01-05,South,Ward-5,Garia,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-01-06,4.0,22.469155,88.472286,Material Awaited
 CMP0342,2026-01-28,West,Ward-4,Behala,Illegal Dumping,Sanitation Department,Low,In Progress,Pooja Sen,,,22.56077,88.332031,Inspection Pending
 CMP0343,2026-03-22,North,Ward-23,Dum Dum,Road Damage,Road Department,High,Resolved,Rajesh Kumar,2026-03-23,4.0,22.569318,88.330829,Verified
@@ -348,21 +348,21 @@ CMP0346,2026-04-04,West,Ward-17,Behala,Illegal Dumping,Sanitation Department,Hig
 CMP0347,2026-05-22,South,Ward-23,Tollygunge,Pothole,Road Department,Low,Resolved,Suresh Roy,2026-05-30,5.0,22.577627,88.420917,Pending
 CMP0348,2026-04-24,South,Ward-9,Tollygunge,Traffic Signal Fault,Traffic Department,High,In Progress,Deepak Bose,,,22.528679,88.345148,Repaired
 CMP0349,2026-04-18,North,Ward-17,Dum Dum,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.604184,88.439114,Repaired
-CMP0350,2026-01-10,West,Ward-29,Santragachi,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-01-16,3.0,22.467378,88.427042,Team Assigned
+CMP0350,2026-10-01,West,Ward-29,Santragachi,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-01-16,3.0,22.467378,88.427042,Team Assigned
 CMP0351,2026-01-29,East,Ward-4,New Town,Traffic Signal Fault,Traffic Department,High,In Progress,Deepak Bose,,,22.643288,88.302285,Inspection Pending
 CMP0352,2026-05-14,West,Ward-27,Santragachi,Road Damage,Road Department,High,Open,Suresh Roy,,,22.694832,88.450338,Material Awaited
 CMP0353,2026-05-24,North,Ward-20,Dum Dum,Drain Blockage,Sewer Department,Low,In Progress,Anil Shaw,,,22.460043,88.480713,Material Awaited
 CMP0354,2026-05-05,Central,Ward-13,Park Street,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.463431,88.442812,Inspection Pending
-CMP0355,2026-04-05,West,Ward-23,Behala,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-04-07,4.0,22.682426,88.466808,Material Awaited
+CMP0355,2026-04-05,West,Ward-23,Behala,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-07-04,4.0,22.682426,88.466808,Material Awaited
 CMP0356,2026-01-01,Central,Ward-9,Esplanade,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-01-09,3.0,22.596566,88.468539,Team Assigned
 CMP0357,2026-01-14,South,Ward-15,Garia,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-01-23,3.0,22.626615,88.338213,Team Assigned
 CMP0358,2026-05-23,South,Ward-28,Tollygunge,Park Maintenance,Parks Department,Low,Resolved,Arjun Roy,2026-05-29,5.0,22.576413,88.460332,Repaired
 CMP0359,2026-06-07,West,Ward-18,Behala,Garbage Overflow,Sanitation Department,Low,Open,Neha Gupta,,,22.462511,88.290765,Pending
 CMP0360,2026-02-27,South,Ward-30,Tollygunge,Pothole,Road Department,High,Open,Rajesh Kumar,,,22.641641,88.424796,Verified
-CMP0361,2026-03-11,South,Ward-11,Tollygunge,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.469893,88.322592,Inspection Pending
+CMP0361,2026-11-03,South,Ward-11,Tollygunge,Water Leakage,Water Department,High,In Progress,Priya Sharma,,,22.469893,88.322592,Inspection Pending
 CMP0362,2026-05-30,North,Ward-25,Dum Dum,Garbage Overflow,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.636792,88.447856,Verified
 CMP0363,2026-04-18,South,Ward-21,Tollygunge,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.536015,88.276549,Work Completed
-CMP0364,2026-05-10,Central,Ward-10,Esplanade,Sewer Problem,Sewer Department,Low,In Progress,Vikram Das,,,22.526823,88.400616,Repaired
+CMP0364,2026-10-05,Central,Ward-10,Esplanade,Sewer Problem,Sewer Department,Low,In Progress,Vikram Das,,,22.526823,88.400616,Repaired
 CMP0365,2026-04-15,South,Ward-17,Tollygunge,Pothole,Road Department,Low,In Progress,Rajesh Kumar,,,22.696866,88.311748,Material Awaited
 CMP0366,2026-02-12,North,Ward-4,Shyambazar,Garbage Overflow,Sanitation Department,Low,Open,Neha Gupta,,,22.633255,88.453847,Material Awaited
 CMP0367,2026-03-24,Central,Ward-24,Esplanade,Street Light Fault,Electricity Department,High,Resolved,Karan Paul,2026-03-28,3.0,22.46173,88.444743,Verified
@@ -373,7 +373,7 @@ CMP0371,2026-06-23,South,Ward-10,Garia,Traffic Signal Fault,Traffic Department,L
 CMP0372,2026-04-04,South,Ward-20,Tollygunge,Road Damage,Road Department,Low,In Progress,Suresh Roy,,,22.53534,88.325852,Team Assigned
 CMP0373,2026-01-06,East,Ward-13,Salt Lake,Garbage Overflow,Sanitation Department,High,In Progress,Pooja Sen,,,22.590237,88.43326,Material Awaited
 CMP0374,2026-01-17,West,Ward-2,Behala,Road Damage,Road Department,Low,Resolved,Rajesh Kumar,2026-01-27,3.0,22.462446,88.273028,Verified
-CMP0375,2026-01-02,Central,Ward-17,Park Street,Sewer Problem,Sewer Department,Low,Open,Anil Shaw,,,22.602679,88.326333,Work Completed
+CMP0375,2026-02-01,Central,Ward-17,Park Street,Sewer Problem,Sewer Department,Low,Open,Anil Shaw,,,22.602679,88.326333,Work Completed
 CMP0376,2026-04-28,West,Ward-23,Behala,Traffic Signal Fault,Traffic Department,High,In Progress,Deepak Bose,,,22.55363,88.384021,Pending
 CMP0377,2026-04-16,East,Ward-4,New Town,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.537797,88.289502,Pending
 CMP0378,2026-02-13,North,Ward-17,Dum Dum,Road Damage,Road Department,Low,Resolved,Suresh Roy,2026-02-23,3.0,22.543532,88.310307,Material Awaited
@@ -381,7 +381,7 @@ CMP0379,2026-03-09,North,Ward-14,Dum Dum,Road Damage,Road Department,High,Resolv
 CMP0380,2026-02-01,Central,Ward-2,Park Street,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.660581,88.331408,Inspection Pending
 CMP0381,2026-05-07,North,Ward-18,Dum Dum,Street Light Fault,Electricity Department,Medium,Resolved,Amit Singh,2026-05-09,4.0,22.461303,88.345868,Inspection Pending
 CMP0382,2026-05-03,South,Ward-5,Tollygunge,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-05-13,3.0,22.680064,88.26849,Material Awaited
-CMP0383,2026-06-05,East,Ward-4,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-06-15,3.0,22.530214,88.302366,Team Assigned
+CMP0383,2026-05-06,East,Ward-4,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-06-15,3.0,22.530214,88.302366,Team Assigned
 CMP0384,2026-03-27,East,Ward-23,Salt Lake,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.505411,88.295112,Material Awaited
 CMP0385,2026-06-02,South,Ward-15,Garia,Road Damage,Road Department,High,Open,Rajesh Kumar,,,22.513714,88.454871,Material Awaited
 CMP0386,2026-05-02,East,Ward-20,Salt Lake,Sewer Problem,Sewer Department,Low,In Progress,Anil Shaw,,,22.630955,88.270026,Pending
@@ -389,7 +389,7 @@ CMP0387,2026-03-26,West,Ward-1,Behala,Traffic Signal Fault,Traffic Department,Hi
 CMP0388,2026-06-18,North,Ward-23,Shyambazar,Water Leakage,Water Department,Low,Open,Priya Sharma,,,22.641764,88.408604,Pending
 CMP0389,2026-05-09,East,Ward-14,New Town,Street Light Fault,Electricity Department,Medium,Resolved,Amit Singh,2026-05-19,4.0,22.696783,88.498068,Verified
 CMP0390,2026-05-07,East,Ward-20,Salt Lake,Pothole,Road Department,Low,In Progress,Suresh Roy,,,22.682307,88.341904,Verified
-CMP0391,2026-01-04,North,Ward-16,Dum Dum,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.573469,88.330857,Inspection Pending
+CMP0391,2026-04-01,North,Ward-16,Dum Dum,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.573469,88.330857,Inspection Pending
 CMP0392,2026-01-27,East,Ward-1,New Town,Garbage Overflow,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.597351,88.319131,Verified
 CMP0393,2026-05-18,South,Ward-10,Garia,Sewer Problem,Sewer Department,High,Resolved,Vikram Das,2026-05-28,5.0,22.588114,88.394408,Repaired
 CMP0394,2026-03-24,North,Ward-1,Shyambazar,Illegal Dumping,Sanitation Department,High,Open,Neha Gupta,,,22.491165,88.326262,Work Completed
@@ -427,8 +427,8 @@ CMP0425,2026-02-05,West,Ward-9,Behala,Pothole,Road Department,Low,In Progress,Ra
 CMP0426,2026-05-03,South,Ward-11,Garia,Garbage Overflow,Sanitation Department,High,Resolved,Pooja Sen,2026-05-10,3.0,22.686937,88.451284,Work Completed
 CMP0427,2026-02-26,North,Ward-2,Dum Dum,Traffic Signal Fault,Traffic Department,Low,In Progress,Deepak Bose,,,22.598556,88.450151,Repaired
 CMP0428,2026-02-21,Central,Ward-5,Esplanade,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.673073,88.294087,Material Awaited
-CMP0429,2026-03-08,North,Ward-24,Shyambazar,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.503688,88.353355,Work Completed
-CMP0430,2026-04-03,West,Ward-7,Santragachi,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.630116,88.456599,Team Assigned
+CMP0429,2026-08-03,North,Ward-24,Shyambazar,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.503688,88.353355,Work Completed
+CMP0430,2026-03-04,West,Ward-7,Santragachi,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.630116,88.456599,Team Assigned
 CMP0431,2026-04-09,South,Ward-8,Tollygunge,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.499465,88.471935,Pending
 CMP0432,2026-03-29,South,Ward-25,Tollygunge,Water Leakage,Water Department,Medium,Resolved,Rohit Das,2026-04-01,4.0,22.504661,88.299881,Team Assigned
 CMP0433,2026-03-25,South,Ward-27,Garia,Pothole,Road Department,Low,Open,Suresh Roy,,,22.692784,88.303232,Repaired
@@ -441,7 +441,7 @@ CMP0439,2026-04-27,North,Ward-10,Dum Dum,Traffic Signal Fault,Traffic Department
 CMP0440,2026-03-30,North,Ward-2,Dum Dum,Pothole,Road Department,Medium,In Progress,Rajesh Kumar,,,22.670664,88.293761,Team Assigned
 CMP0441,2026-03-21,West,Ward-4,Santragachi,Sewer Problem,Sewer Department,Low,In Progress,Vikram Das,,,22.649002,88.259376,Repaired
 CMP0442,2026-04-17,North,Ward-9,Dum Dum,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.660132,88.45611,Team Assigned
-CMP0443,2026-01-03,North,Ward-27,Shyambazar,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-01-11,5.0,22.524869,88.46432,Pending
+CMP0443,2026-03-01,North,Ward-27,Shyambazar,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-01-11,5.0,22.524869,88.46432,Pending
 CMP0444,2026-02-05,South,Ward-4,Tollygunge,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-02-10,4.0,22.45608,88.463427,Inspection Pending
 CMP0445,2026-03-15,Central,Ward-17,Esplanade,Park Maintenance,Parks Department,Low,Resolved,Arjun Roy,2026-03-23,3.0,22.611626,88.352841,Verified
 CMP0446,2026-01-21,Central,Ward-5,Park Street,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.555623,88.399309,Repaired
@@ -453,15 +453,15 @@ CMP0451,2026-01-20,East,Ward-21,New Town,Water Leakage,Water Department,Low,Open
 CMP0452,2026-04-19,North,Ward-2,Shyambazar,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-04-25,5.0,22.457311,88.385696,Material Awaited
 CMP0453,2026-04-04,South,Ward-21,Garia,Traffic Signal Fault,Traffic Department,Low,In Progress,Rahul Sen,,,22.539929,88.459178,Pending
 CMP0454,2026-04-20,North,Ward-4,Shyambazar,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.571705,88.255508,Repaired
-CMP0455,2026-06-27,Central,Ward-2,Esplanade,Pothole,Road Department,Low,Resolved,Suresh Roy,2026-07-05,5.0,22.615259,88.480031,Repaired
-CMP0456,2026-02-27,South,Ward-11,Garia,Drain Blockage,Sewer Department,High,Resolved,Vikram Das,2026-03-06,5.0,22.48777,88.317764,Inspection Pending
+CMP0455,2026-06-27,Central,Ward-2,Esplanade,Pothole,Road Department,Low,Resolved,Suresh Roy,2026-05-07,5.0,22.615259,88.480031,Repaired
+CMP0456,2026-02-27,South,Ward-11,Garia,Drain Blockage,Sewer Department,High,Resolved,Vikram Das,2026-06-03,5.0,22.48777,88.317764,Inspection Pending
 CMP0457,2026-01-12,Central,Ward-30,Esplanade,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-01-19,4.0,22.534826,88.382747,Inspection Pending
 CMP0458,2026-03-25,Central,Ward-8,Esplanade,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-03-26,4.0,22.453531,88.328623,Inspection Pending
-CMP0459,2026-02-10,West,Ward-13,Santragachi,Traffic Signal Fault,Traffic Department,High,In Progress,Rahul Sen,,,22.456022,88.288686,Pending
+CMP0459,2026-10-02,West,Ward-13,Santragachi,Traffic Signal Fault,Traffic Department,High,In Progress,Rahul Sen,,,22.456022,88.288686,Pending
 CMP0460,2026-06-08,East,Ward-16,New Town,Illegal Dumping,Sanitation Department,High,Open,Neha Gupta,,,22.596389,88.298232,Repaired
 CMP0461,2026-06-04,North,Ward-14,Shyambazar,Traffic Signal Fault,Traffic Department,Medium,Open,Rahul Sen,,,22.488237,88.481713,Pending
 CMP0462,2026-04-13,West,Ward-15,Santragachi,Road Damage,Road Department,High,Open,Suresh Roy,,,22.504517,88.444822,Repaired
-CMP0463,2026-05-09,North,Ward-21,Dum Dum,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-05-10,3.0,22.698968,88.403023,Repaired
+CMP0463,2026-05-09,North,Ward-21,Dum Dum,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-10-05,3.0,22.698968,88.403023,Repaired
 CMP0464,2026-03-25,North,Ward-24,Shyambazar,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-04-01,5.0,22.69271,88.498799,Repaired
 CMP0465,2026-06-23,South,Ward-19,Garia,Road Damage,Road Department,Medium,In Progress,Rajesh Kumar,,,22.513446,88.435253,Inspection Pending
 CMP0466,2026-05-16,West,Ward-7,Santragachi,Pothole,Road Department,Medium,In Progress,Rajesh Kumar,,,22.550935,88.267322,Repaired
@@ -481,8 +481,8 @@ CMP0479,2026-03-14,Central,Ward-17,Park Street,Illegal Dumping,Sanitation Depart
 CMP0480,2026-06-22,Central,Ward-12,Esplanade,Traffic Signal Fault,Traffic Department,Medium,Open,Rahul Sen,,,22.542999,88.30597,Inspection Pending
 CMP0481,2026-04-24,East,Ward-19,Salt Lake,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-04-28,5.0,22.673632,88.454694,Verified
 CMP0482,2026-01-18,South,Ward-1,Garia,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.491109,88.384467,Material Awaited
-CMP0483,2026-05-03,North,Ward-9,Dum Dum,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.516058,88.418115,Repaired
-CMP0484,2026-03-08,South,Ward-10,Garia,Traffic Signal Fault,Traffic Department,High,In Progress,Rahul Sen,,,22.534624,88.287261,Repaired
+CMP0483,2026-03-05,North,Ward-9,Dum Dum,Sewer Problem,Sewer Department,High,In Progress,Vikram Das,,,22.516058,88.418115,Repaired
+CMP0484,2026-08-03,South,Ward-10,Garia,Traffic Signal Fault,Traffic Department,High,In Progress,Rahul Sen,,,22.534624,88.287261,Repaired
 CMP0485,2026-04-19,North,Ward-21,Dum Dum,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.608908,88.41412,Material Awaited
 CMP0486,2026-04-22,East,Ward-20,New Town,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.535745,88.469865,Pending
 CMP0487,2026-03-06,South,Ward-28,Garia,Park Maintenance,Parks Department,High,Resolved,Arjun Roy,2026-03-13,4.0,22.549252,88.449799,Inspection Pending
@@ -502,9 +502,9 @@ CMP0500,2026-02-11,West,Ward-11,Behala,Water Leakage,Water Department,Medium,Ope
 CMP0501,2026-01-25,North,Ward-4,Shyambazar,Sewer Problem,Sewer Department,High,Open,Anil Shaw,,,22.648775,88.260899,Material Awaited
 CMP0502,2026-02-06,West,Ward-3,Behala,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.581441,88.42051,Repaired
 CMP0503,2026-05-20,West,Ward-2,Santragachi,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.575625,88.332877,Inspection Pending
-CMP0504,2026-04-06,East,Ward-11,New Town,Water Leakage,Water Department,High,Resolved,Rohit Das,2026-04-09,3.0,22.646725,88.394469,Work Completed
-CMP0505,2026-03-11,East,Ward-22,Salt Lake,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-03-18,3.0,22.457727,88.287655,Pending
-CMP0506,2026-05-04,Central,Ward-18,Park Street,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-05-09,4.0,22.665591,88.494634,Pending
+CMP0504,2026-06-04,East,Ward-11,New Town,Water Leakage,Water Department,High,Resolved,Rohit Das,2026-04-09,3.0,22.646725,88.394469,Work Completed
+CMP0505,2026-11-03,East,Ward-22,Salt Lake,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-03-18,3.0,22.457727,88.287655,Pending
+CMP0506,2026-05-04,Central,Ward-18,Park Street,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-09-05,4.0,22.665591,88.494634,Pending
 CMP0507,2026-01-04,East,Ward-21,Salt Lake,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-01-05,5.0,22.66989,88.27322,Pending
 CMP0508,2026-04-11,South,Ward-1,Tollygunge,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.589088,88.47693,Team Assigned
 CMP0509,2026-06-09,East,Ward-14,Salt Lake,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.489382,88.304094,Verified
@@ -512,7 +512,7 @@ CMP0510,2026-02-24,North,Ward-27,Dum Dum,Park Maintenance,Parks Department,Low,O
 CMP0511,2026-02-02,Central,Ward-30,Park Street,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.597047,88.253683,Repaired
 CMP0512,2026-06-25,Central,Ward-29,Esplanade,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.617286,88.281735,Inspection Pending
 CMP0513,2026-02-13,West,Ward-17,Behala,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-02-16,5.0,22.61102,88.269649,Material Awaited
-CMP0514,2026-01-10,North,Ward-26,Shyambazar,Traffic Signal Fault,Traffic Department,Medium,Open,Deepak Bose,,,22.578394,88.397143,Material Awaited
+CMP0514,2026-10-01,North,Ward-26,Shyambazar,Traffic Signal Fault,Traffic Department,Medium,Open,Deepak Bose,,,22.578394,88.397143,Material Awaited
 CMP0515,2026-03-07,East,Ward-10,New Town,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-03-10,3.0,22.526711,88.36522,Inspection Pending
 CMP0516,2026-02-26,East,Ward-13,Salt Lake,Park Maintenance,Parks Department,Low,Resolved,Arjun Roy,2026-03-08,3.0,22.502422,88.34713,Verified
 CMP0517,2026-05-25,Central,Ward-30,Esplanade,Road Damage,Road Department,Low,Open,Suresh Roy,,,22.543539,88.384854,Repaired
@@ -520,14 +520,14 @@ CMP0518,2026-05-24,South,Ward-19,Tollygunge,Park Maintenance,Parks Department,Me
 CMP0519,2026-03-30,South,Ward-7,Tollygunge,Garbage Overflow,Sanitation Department,Medium,Open,Neha Gupta,,,22.516672,88.397761,Material Awaited
 CMP0520,2026-02-28,Central,Ward-6,Esplanade,Drain Blockage,Sewer Department,Low,In Progress,Anil Shaw,,,22.680255,88.397238,Inspection Pending
 CMP0521,2026-05-03,Central,Ward-13,Esplanade,Illegal Dumping,Sanitation Department,Medium,Resolved,Neha Gupta,2026-05-06,3.0,22.56174,88.437602,Repaired
-CMP0522,2026-06-10,South,Ward-1,Tollygunge,Road Damage,Road Department,Low,Open,Rajesh Kumar,,,22.564288,88.331094,Repaired
+CMP0522,2026-10-06,South,Ward-1,Tollygunge,Road Damage,Road Department,Low,Open,Rajesh Kumar,,,22.564288,88.331094,Repaired
 CMP0523,2026-05-18,West,Ward-3,Behala,Sewer Problem,Sewer Department,Low,Open,Anil Shaw,,,22.487082,88.484335,Verified
 CMP0524,2026-02-14,Central,Ward-22,Esplanade,Road Damage,Road Department,Medium,Open,Rajesh Kumar,,,22.672404,88.353471,Pending
 CMP0525,2026-02-06,South,Ward-27,Tollygunge,Drain Blockage,Sewer Department,High,Resolved,Vikram Das,2026-02-15,5.0,22.51173,88.464781,Verified
 CMP0526,2026-04-28,East,Ward-15,New Town,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.501675,88.450943,Material Awaited
-CMP0527,2026-03-12,West,Ward-25,Behala,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.511023,88.267951,Repaired
+CMP0527,2026-12-03,West,Ward-25,Behala,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.511023,88.267951,Repaired
 CMP0528,2026-02-08,East,Ward-29,New Town,Pothole,Road Department,Low,Open,Suresh Roy,,,22.486374,88.483278,Pending
-CMP0529,2026-01-02,West,Ward-25,Santragachi,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-01-06,5.0,22.566418,88.26223,Pending
+CMP0529,2026-01-02,West,Ward-25,Santragachi,Illegal Dumping,Sanitation Department,Low,Resolved,Pooja Sen,2026-06-01,5.0,22.566418,88.26223,Pending
 CMP0530,2026-01-29,North,Ward-21,Dum Dum,Drain Blockage,Sewer Department,High,Resolved,Anil Shaw,2026-02-03,5.0,22.58818,88.495172,Material Awaited
 CMP0531,2026-06-17,West,Ward-11,Santragachi,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-06-26,3.0,22.57679,88.415426,Verified
 CMP0532,2026-04-18,South,Ward-15,Garia,Road Damage,Road Department,High,Open,Suresh Roy,,,22.583267,88.40228,Repaired
@@ -546,11 +546,11 @@ CMP0544,2026-03-11,West,Ward-14,Behala,Street Light Fault,Electricity Department
 CMP0545,2026-02-25,East,Ward-8,Salt Lake,Traffic Signal Fault,Traffic Department,Medium,In Progress,Deepak Bose,,,22.605679,88.263002,Repaired
 CMP0546,2026-04-16,East,Ward-22,Salt Lake,Traffic Signal Fault,Traffic Department,Medium,Resolved,Deepak Bose,2026-04-21,5.0,22.614974,88.281503,Pending
 CMP0547,2026-06-15,North,Ward-19,Shyambazar,Water Leakage,Water Department,Low,Open,Rohit Das,,,22.528783,88.398045,Inspection Pending
-CMP0548,2026-05-29,East,Ward-12,New Town,Drain Blockage,Sewer Department,Medium,Resolved,Anil Shaw,2026-06-04,3.0,22.551992,88.467752,Work Completed
-CMP0549,2026-01-04,North,Ward-4,Dum Dum,Illegal Dumping,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.460238,88.41091,Repaired
+CMP0548,2026-05-29,East,Ward-12,New Town,Drain Blockage,Sewer Department,Medium,Resolved,Anil Shaw,2026-04-06,3.0,22.551992,88.467752,Work Completed
+CMP0549,2026-04-01,North,Ward-4,Dum Dum,Illegal Dumping,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.460238,88.41091,Repaired
 CMP0550,2026-05-21,West,Ward-18,Santragachi,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.487274,88.295283,Pending
 CMP0551,2026-04-22,North,Ward-22,Shyambazar,Street Light Fault,Electricity Department,Low,In Progress,Karan Paul,,,22.451037,88.422975,Verified
-CMP0552,2026-01-06,North,Ward-7,Shyambazar,Drain Blockage,Sewer Department,Medium,Open,Anil Shaw,,,22.451101,88.422194,Pending
+CMP0552,2026-06-01,North,Ward-7,Shyambazar,Drain Blockage,Sewer Department,Medium,Open,Anil Shaw,,,22.451101,88.422194,Pending
 CMP0553,2026-03-21,West,Ward-7,Behala,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-03-25,5.0,22.618908,88.297335,Repaired
 CMP0554,2026-05-15,East,Ward-11,New Town,Sewer Problem,Sewer Department,Medium,Resolved,Vikram Das,2026-05-16,3.0,22.511723,88.481979,Material Awaited
 CMP0555,2026-05-27,South,Ward-3,Tollygunge,Traffic Signal Fault,Traffic Department,Low,Resolved,Rahul Sen,2026-06-05,3.0,22.667289,88.360246,Work Completed
@@ -558,14 +558,14 @@ CMP0556,2026-05-20,West,Ward-2,Santragachi,Pothole,Road Department,Medium,Open,R
 CMP0557,2026-02-25,West,Ward-14,Behala,Water Leakage,Water Department,High,Open,Priya Sharma,,,22.591375,88.356432,Pending
 CMP0558,2026-01-21,East,Ward-30,New Town,Traffic Signal Fault,Traffic Department,Medium,Open,Deepak Bose,,,22.62,88.39275,Team Assigned
 CMP0559,2026-05-12,West,Ward-8,Behala,Park Maintenance,Parks Department,High,In Progress,Arjun Roy,,,22.654575,88.440961,Repaired
-CMP0560,2026-04-03,East,Ward-7,Salt Lake,Park Maintenance,Parks Department,Low,Open,Arjun Roy,,,22.51088,88.447343,Repaired
+CMP0560,2026-03-04,East,Ward-7,Salt Lake,Park Maintenance,Parks Department,Low,Open,Arjun Roy,,,22.51088,88.447343,Repaired
 CMP0561,2026-02-18,Central,Ward-24,Park Street,Garbage Overflow,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.566945,88.450177,Work Completed
 CMP0562,2026-03-11,North,Ward-20,Dum Dum,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.62614,88.464437,Material Awaited
 CMP0563,2026-01-31,East,Ward-2,Salt Lake,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.624838,88.36152,Material Awaited
 CMP0564,2026-04-22,North,Ward-12,Shyambazar,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.634247,88.297032,Pending
 CMP0565,2026-04-06,Central,Ward-19,Park Street,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-04-14,3.0,22.614483,88.488089,Inspection Pending
-CMP0566,2026-05-12,West,Ward-28,Behala,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.500021,88.425331,Work Completed
-CMP0567,2026-03-12,South,Ward-2,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.582984,88.423296,Team Assigned
+CMP0566,2026-12-05,West,Ward-28,Behala,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.500021,88.425331,Work Completed
+CMP0567,2026-12-03,South,Ward-2,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.582984,88.423296,Team Assigned
 CMP0568,2026-04-02,West,Ward-8,Santragachi,Pothole,Road Department,Medium,Open,Rajesh Kumar,,,22.69673,88.337546,Material Awaited
 CMP0569,2026-05-03,East,Ward-25,Salt Lake,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.537891,88.480597,Material Awaited
 CMP0570,2026-01-24,Central,Ward-11,Park Street,Sewer Problem,Sewer Department,Low,In Progress,Anil Shaw,,,22.621229,88.306538,Verified
@@ -578,7 +578,7 @@ CMP0576,2026-01-13,South,Ward-11,Garia,Pothole,Road Department,High,In Progress,
 CMP0577,2026-02-28,West,Ward-4,Santragachi,Illegal Dumping,Sanitation Department,Medium,Open,Neha Gupta,,,22.657868,88.425856,Inspection Pending
 CMP0578,2026-03-21,East,Ward-28,Salt Lake,Water Leakage,Water Department,High,Open,Priya Sharma,,,22.475623,88.275722,Pending
 CMP0579,2026-04-28,North,Ward-24,Shyambazar,Park Maintenance,Parks Department,Medium,Resolved,Arjun Roy,2026-05-05,5.0,22.566569,88.493328,Inspection Pending
-CMP0580,2026-02-08,North,Ward-11,Dum Dum,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.609419,88.376563,Pending
+CMP0580,2026-08-02,North,Ward-11,Dum Dum,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.609419,88.376563,Pending
 CMP0581,2026-04-16,East,Ward-4,New Town,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.693854,88.288974,Team Assigned
 CMP0582,2026-05-18,North,Ward-10,Dum Dum,Pothole,Road Department,Medium,Open,Suresh Roy,,,22.593986,88.388711,Work Completed
 CMP0583,2026-01-12,North,Ward-13,Shyambazar,Water Leakage,Water Department,High,Open,Priya Sharma,,,22.520391,88.295481,Material Awaited
@@ -598,27 +598,27 @@ CMP0596,2026-02-26,West,Ward-23,Behala,Sewer Problem,Sewer Department,Low,Resolv
 CMP0597,2026-03-24,East,Ward-30,Salt Lake,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.52505,88.460508,Material Awaited
 CMP0598,2026-01-17,North,Ward-24,Dum Dum,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.594856,88.268244,Work Completed
 CMP0599,2026-04-26,West,Ward-15,Behala,Garbage Overflow,Sanitation Department,Medium,Resolved,Neha Gupta,2026-04-30,5.0,22.541127,88.257345,Team Assigned
-CMP0600,2026-06-04,Central,Ward-6,Park Street,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-06-13,3.0,22.561238,88.331324,Verified
-CMP0601,2026-04-11,East,Ward-18,Salt Lake,Street Light Fault,Electricity Department,High,In Progress,Karan Paul,,,22.696415,88.414069,Material Awaited
+CMP0600,2026-04-06,Central,Ward-6,Park Street,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-06-13,3.0,22.561238,88.331324,Verified
+CMP0601,2026-11-04,East,Ward-18,Salt Lake,Street Light Fault,Electricity Department,High,In Progress,Karan Paul,,,22.696415,88.414069,Material Awaited
 CMP0602,2026-02-17,Central,Ward-28,Esplanade,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-02-22,5.0,22.654118,88.466412,Inspection Pending
 CMP0603,2026-03-01,North,Ward-17,Shyambazar,Street Light Fault,Electricity Department,High,In Progress,Karan Paul,,,22.537595,88.289995,Repaired
 CMP0604,2026-04-20,East,Ward-3,New Town,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.459101,88.321882,Pending
 CMP0605,2026-05-31,North,Ward-26,Dum Dum,Park Maintenance,Parks Department,Medium,Open,Arjun Roy,,,22.583977,88.369451,Verified
-CMP0606,2026-01-03,East,Ward-30,New Town,Street Light Fault,Electricity Department,Medium,Resolved,Karan Paul,2026-01-07,3.0,22.651226,88.357776,Pending
+CMP0606,2026-03-01,East,Ward-30,New Town,Street Light Fault,Electricity Department,Medium,Resolved,Karan Paul,2026-01-07,3.0,22.651226,88.357776,Pending
 CMP0607,2026-02-28,North,Ward-4,Shyambazar,Pothole,Road Department,Low,In Progress,Rajesh Kumar,,,22.480735,88.385128,Team Assigned
 CMP0608,2026-06-15,South,Ward-24,Tollygunge,Traffic Signal Fault,Traffic Department,High,Open,Deepak Bose,,,22.484961,88.3232,Inspection Pending
 CMP0609,2026-01-30,East,Ward-2,Salt Lake,Traffic Signal Fault,Traffic Department,Low,Open,Deepak Bose,,,22.467675,88.369086,Team Assigned
-CMP0610,2026-06-11,Central,Ward-13,Park Street,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.649168,88.43816,Verified
+CMP0610,2026-11-06,Central,Ward-13,Park Street,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.649168,88.43816,Verified
 CMP0611,2026-02-24,East,Ward-26,Salt Lake,Pothole,Road Department,Low,Open,Suresh Roy,,,22.4795,88.391968,Work Completed
-CMP0612,2026-05-02,Central,Ward-6,Park Street,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.554413,88.381234,Material Awaited
+CMP0612,2026-02-05,Central,Ward-6,Park Street,Sewer Problem,Sewer Department,Medium,Open,Anil Shaw,,,22.554413,88.381234,Material Awaited
 CMP0613,2026-01-13,East,Ward-22,Salt Lake,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-01-20,4.0,22.670073,88.278864,Repaired
 CMP0614,2026-05-06,Central,Ward-11,Park Street,Garbage Overflow,Sanitation Department,High,In Progress,Neha Gupta,,,22.548681,88.49688,Verified
 CMP0615,2026-05-27,South,Ward-9,Tollygunge,Traffic Signal Fault,Traffic Department,High,Open,Deepak Bose,,,22.567933,88.279213,Inspection Pending
 CMP0616,2026-01-14,South,Ward-17,Garia,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-01-19,4.0,22.660906,88.250136,Team Assigned
 CMP0617,2026-04-23,North,Ward-1,Shyambazar,Road Damage,Road Department,Low,In Progress,Suresh Roy,,,22.668012,88.346933,Material Awaited
-CMP0618,2026-05-04,East,Ward-14,New Town,Traffic Signal Fault,Traffic Department,Low,In Progress,Deepak Bose,,,22.577523,88.472216,Pending
+CMP0618,2026-04-05,East,Ward-14,New Town,Traffic Signal Fault,Traffic Department,Low,In Progress,Deepak Bose,,,22.577523,88.472216,Pending
 CMP0619,2026-05-20,West,Ward-23,Behala,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.580324,88.434544,Repaired
-CMP0620,2026-06-28,East,Ward-21,New Town,Water Leakage,Water Department,High,Resolved,Priya Sharma,2026-07-02,4.0,22.621013,88.406698,Verified
+CMP0620,2026-06-28,East,Ward-21,New Town,Water Leakage,Water Department,High,Resolved,Priya Sharma,2026-02-07,4.0,22.621013,88.406698,Verified
 CMP0621,2026-05-08,West,Ward-24,Santragachi,Drain Blockage,Sewer Department,Low,Open,Anil Shaw,,,22.634261,88.29438,Material Awaited
 CMP0622,2026-03-13,West,Ward-6,Santragachi,Road Damage,Road Department,Low,Open,Suresh Roy,,,22.46064,88.459078,Pending
 CMP0623,2026-03-18,East,Ward-11,Salt Lake,Road Damage,Road Department,Low,In Progress,Rajesh Kumar,,,22.694254,88.451209,Pending
@@ -636,9 +636,9 @@ CMP0634,2026-04-25,North,Ward-3,Dum Dum,Pothole,Road Department,High,In Progress
 CMP0635,2026-06-13,Central,Ward-22,Esplanade,Pothole,Road Department,Low,In Progress,Suresh Roy,,,22.548869,88.471094,Material Awaited
 CMP0636,2026-02-08,South,Ward-25,Garia,Water Leakage,Water Department,High,In Progress,Rohit Das,,,22.667151,88.429832,Pending
 CMP0637,2026-01-21,North,Ward-23,Dum Dum,Garbage Overflow,Sanitation Department,Medium,Resolved,Neha Gupta,2026-01-27,5.0,22.632071,88.323186,Work Completed
-CMP0638,2026-03-11,North,Ward-9,Shyambazar,Water Leakage,Water Department,High,Resolved,Priya Sharma,2026-03-12,5.0,22.510021,88.306553,Team Assigned
-CMP0639,2026-05-01,West,Ward-3,Behala,Street Light Fault,Electricity Department,Low,Resolved,Amit Singh,2026-05-09,3.0,22.482036,88.285743,Inspection Pending
-CMP0640,2026-06-10,East,Ward-1,Salt Lake,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.461632,88.32744,Material Awaited
+CMP0638,2026-03-11,North,Ward-9,Shyambazar,Water Leakage,Water Department,High,Resolved,Priya Sharma,2026-12-03,5.0,22.510021,88.306553,Team Assigned
+CMP0639,2026-01-05,West,Ward-3,Behala,Street Light Fault,Electricity Department,Low,Resolved,Amit Singh,2026-05-09,3.0,22.482036,88.285743,Inspection Pending
+CMP0640,2026-10-06,East,Ward-1,Salt Lake,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.461632,88.32744,Material Awaited
 CMP0641,2026-03-03,West,Ward-30,Santragachi,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.62161,88.411856,Material Awaited
 CMP0642,2026-03-27,East,Ward-6,New Town,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.478019,88.266409,Inspection Pending
 CMP0643,2026-03-15,West,Ward-28,Behala,Pothole,Road Department,High,In Progress,Suresh Roy,,,22.56505,88.467058,Verified
@@ -656,7 +656,7 @@ CMP0654,2026-02-25,Central,Ward-23,Park Street,Garbage Overflow,Sanitation Depar
 CMP0655,2026-05-25,West,Ward-25,Behala,Street Light Fault,Electricity Department,Low,Resolved,Amit Singh,2026-06-02,4.0,22.528631,88.378634,Work Completed
 CMP0656,2026-02-04,West,Ward-28,Behala,Street Light Fault,Electricity Department,High,In Progress,Karan Paul,,,22.549166,88.319838,Work Completed
 CMP0657,2026-03-20,North,Ward-7,Shyambazar,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.548704,88.253803,Pending
-CMP0658,2026-02-08,North,Ward-22,Shyambazar,Pothole,Road Department,High,Resolved,Rajesh Kumar,2026-02-10,5.0,22.511028,88.31117,Team Assigned
+CMP0658,2026-08-02,North,Ward-22,Shyambazar,Pothole,Road Department,High,Resolved,Rajesh Kumar,2026-02-10,5.0,22.511028,88.31117,Team Assigned
 CMP0659,2026-03-31,East,Ward-19,Salt Lake,Road Damage,Road Department,High,Resolved,Rajesh Kumar,2026-04-03,5.0,22.591201,88.465384,Material Awaited
 CMP0660,2026-03-19,West,Ward-23,Santragachi,Water Leakage,Water Department,Medium,Resolved,Priya Sharma,2026-03-22,5.0,22.668767,88.261033,Repaired
 CMP0661,2026-02-05,Central,Ward-24,Park Street,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.662109,88.350813,Material Awaited
@@ -669,23 +669,23 @@ CMP0667,2026-06-22,South,Ward-7,Tollygunge,Garbage Overflow,Sanitation Departmen
 CMP0668,2026-06-03,North,Ward-15,Dum Dum,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.536168,88.416729,Pending
 CMP0669,2026-06-13,West,Ward-10,Santragachi,Garbage Overflow,Sanitation Department,High,Resolved,Pooja Sen,2026-06-15,4.0,22.671179,88.484768,Material Awaited
 CMP0670,2026-04-11,Central,Ward-6,Esplanade,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-04-15,3.0,22.685767,88.449177,Pending
-CMP0671,2026-01-07,Central,Ward-30,Park Street,Water Leakage,Water Department,Low,Open,Rohit Das,,,22.4799,88.438511,Inspection Pending
-CMP0672,2026-03-03,North,Ward-15,Shyambazar,Drain Blockage,Sewer Department,High,Resolved,Vikram Das,2026-03-08,5.0,22.529694,88.425004,Repaired
+CMP0671,2026-07-01,Central,Ward-30,Park Street,Water Leakage,Water Department,Low,Open,Rohit Das,,,22.4799,88.438511,Inspection Pending
+CMP0672,2026-03-03,North,Ward-15,Shyambazar,Drain Blockage,Sewer Department,High,Resolved,Vikram Das,2026-08-03,5.0,22.529694,88.425004,Repaired
 CMP0673,2026-03-19,South,Ward-1,Garia,Illegal Dumping,Sanitation Department,Low,Open,Pooja Sen,,,22.636265,88.359719,Team Assigned
 CMP0674,2026-05-08,North,Ward-18,Shyambazar,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.556204,88.49,Repaired
-CMP0675,2026-02-08,North,Ward-17,Shyambazar,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.51783,88.357143,Repaired
+CMP0675,2026-08-02,North,Ward-17,Shyambazar,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.51783,88.357143,Repaired
 CMP0676,2026-03-11,West,Ward-22,Santragachi,Garbage Overflow,Sanitation Department,Medium,Resolved,Pooja Sen,2026-03-12,3.0,22.494088,88.467969,Repaired
 CMP0677,2026-05-12,Central,Ward-18,Esplanade,Road Damage,Road Department,Low,Resolved,Suresh Roy,2026-05-19,5.0,22.612597,88.391718,Pending
 CMP0678,2026-06-17,Central,Ward-15,Esplanade,Pothole,Road Department,High,Open,Rajesh Kumar,,,22.621726,88.428983,Repaired
-CMP0679,2026-02-05,South,Ward-3,Tollygunge,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.55181,88.445248,Work Completed
+CMP0679,2026-05-02,South,Ward-3,Tollygunge,Illegal Dumping,Sanitation Department,Low,Open,Neha Gupta,,,22.55181,88.445248,Work Completed
 CMP0680,2026-05-07,South,Ward-2,Garia,Water Leakage,Water Department,Medium,Open,Rohit Das,,,22.578725,88.382402,Verified
 CMP0681,2026-01-30,West,Ward-3,Behala,Street Light Fault,Electricity Department,High,In Progress,Amit Singh,,,22.68498,88.346091,Material Awaited
-CMP0682,2026-05-28,South,Ward-20,Garia,Illegal Dumping,Sanitation Department,Medium,Resolved,Pooja Sen,2026-06-07,5.0,22.524791,88.418615,Pending
+CMP0682,2026-05-28,South,Ward-20,Garia,Illegal Dumping,Sanitation Department,Medium,Resolved,Pooja Sen,2026-07-06,5.0,22.524791,88.418615,Pending
 CMP0683,2026-05-03,West,Ward-23,Santragachi,Water Leakage,Water Department,Medium,Open,Priya Sharma,,,22.581099,88.449412,Inspection Pending
 CMP0684,2026-02-05,East,Ward-14,Salt Lake,Traffic Signal Fault,Traffic Department,Low,Open,Deepak Bose,,,22.467134,88.376669,Material Awaited
-CMP0685,2026-02-07,West,Ward-22,Behala,Garbage Overflow,Sanitation Department,Low,Resolved,Pooja Sen,2026-02-12,3.0,22.654673,88.281514,Verified
+CMP0685,2026-07-02,West,Ward-22,Behala,Garbage Overflow,Sanitation Department,Low,Resolved,Pooja Sen,2026-12-02,3.0,22.654673,88.281514,Verified
 CMP0686,2026-06-21,East,Ward-18,New Town,Water Leakage,Water Department,Low,Resolved,Rohit Das,2026-06-29,5.0,22.530851,88.333702,Material Awaited
-CMP0687,2026-05-27,East,Ward-3,New Town,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-06-05,3.0,22.513185,88.319901,Repaired
+CMP0687,2026-05-27,East,Ward-3,New Town,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-05-06,3.0,22.513185,88.319901,Repaired
 CMP0688,2026-02-20,West,Ward-6,Santragachi,Water Leakage,Water Department,High,Open,Rohit Das,,,22.472614,88.288392,Work Completed
 CMP0689,2026-04-08,North,Ward-9,Dum Dum,Illegal Dumping,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.560106,88.273028,Material Awaited
 CMP0690,2026-06-25,South,Ward-30,Garia,Road Damage,Road Department,Medium,Open,Rajesh Kumar,,,22.697095,88.376748,Inspection Pending
@@ -693,14 +693,14 @@ CMP0691,2026-03-15,East,Ward-11,New Town,Traffic Signal Fault,Traffic Department
 CMP0692,2026-03-27,East,Ward-8,Salt Lake,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.616065,88.322636,Work Completed
 CMP0693,2026-02-17,South,Ward-24,Garia,Park Maintenance,Parks Department,Medium,Resolved,Arjun Roy,2026-02-20,4.0,22.678303,88.345443,Work Completed
 CMP0694,2026-01-12,Central,Ward-9,Esplanade,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.5185,88.466185,Material Awaited
-CMP0695,2026-03-09,South,Ward-12,Garia,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.618368,88.303828,Work Completed
+CMP0695,2026-09-03,South,Ward-12,Garia,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.618368,88.303828,Work Completed
 CMP0696,2026-04-18,North,Ward-21,Dum Dum,Garbage Overflow,Sanitation Department,High,In Progress,Neha Gupta,,,22.489892,88.457268,Verified
 CMP0697,2026-02-25,Central,Ward-3,Esplanade,Illegal Dumping,Sanitation Department,Low,Open,Pooja Sen,,,22.621916,88.447348,Work Completed
 CMP0698,2026-02-13,North,Ward-9,Dum Dum,Water Leakage,Water Department,High,Resolved,Rohit Das,2026-02-18,3.0,22.580625,88.424,Pending
 CMP0699,2026-04-23,Central,Ward-18,Park Street,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-04-26,3.0,22.495525,88.327735,Team Assigned
-CMP0700,2026-06-29,West,Ward-9,Santragachi,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-07-06,5.0,22.511712,88.433903,Inspection Pending
+CMP0700,2026-06-29,West,Ward-9,Santragachi,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-06-07,5.0,22.511712,88.433903,Inspection Pending
 CMP0701,2026-01-21,West,Ward-30,Behala,Drain Blockage,Sewer Department,Medium,Open,Anil Shaw,,,22.566311,88.331665,Team Assigned
-CMP0702,2026-02-10,South,Ward-1,Tollygunge,Pothole,Road Department,Medium,Open,Rajesh Kumar,,,22.527239,88.288587,Pending
+CMP0702,2026-10-02,South,Ward-1,Tollygunge,Pothole,Road Department,Medium,Open,Rajesh Kumar,,,22.527239,88.288587,Pending
 CMP0703,2026-03-03,North,Ward-10,Shyambazar,Road Damage,Road Department,Medium,Resolved,Suresh Roy,2026-03-06,5.0,22.696404,88.458945,Material Awaited
 CMP0704,2026-02-17,East,Ward-26,New Town,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.613923,88.337567,Repaired
 CMP0705,2026-04-17,East,Ward-13,New Town,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-04-21,4.0,22.622407,88.47571,Pending
@@ -732,7 +732,7 @@ CMP0730,2026-05-28,North,Ward-11,Shyambazar,Garbage Overflow,Sanitation Departme
 CMP0731,2026-02-10,Central,Ward-20,Park Street,Drain Blockage,Sewer Department,Medium,Open,Vikram Das,,,22.539962,88.346746,Pending
 CMP0732,2026-03-27,North,Ward-16,Shyambazar,Pothole,Road Department,High,Open,Rajesh Kumar,,,22.652168,88.423332,Pending
 CMP0733,2026-03-30,Central,Ward-5,Esplanade,Park Maintenance,Parks Department,High,In Progress,Sonia Ghosh,,,22.538105,88.450005,Verified
-CMP0734,2026-05-12,East,Ward-4,New Town,Water Leakage,Water Department,Medium,Resolved,Priya Sharma,2026-05-13,5.0,22.632523,88.463901,Verified
+CMP0734,2026-12-05,East,Ward-4,New Town,Water Leakage,Water Department,Medium,Resolved,Priya Sharma,2026-05-13,5.0,22.632523,88.463901,Verified
 CMP0735,2026-01-18,East,Ward-28,New Town,Drain Blockage,Sewer Department,Medium,In Progress,Vikram Das,,,22.547198,88.493643,Work Completed
 CMP0736,2026-03-29,South,Ward-14,Tollygunge,Garbage Overflow,Sanitation Department,Low,Open,Neha Gupta,,,22.461204,88.325021,Inspection Pending
 CMP0737,2026-02-03,East,Ward-7,New Town,Water Leakage,Water Department,Low,In Progress,Priya Sharma,,,22.517532,88.342971,Work Completed
@@ -746,18 +746,18 @@ CMP0744,2026-02-14,North,Ward-9,Shyambazar,Park Maintenance,Parks Department,Hig
 CMP0745,2026-01-26,Central,Ward-2,Park Street,Garbage Overflow,Sanitation Department,High,Resolved,Pooja Sen,2026-02-05,5.0,22.592393,88.394195,Work Completed
 CMP0746,2026-04-15,East,Ward-23,New Town,Sewer Problem,Sewer Department,High,Open,Anil Shaw,,,22.603732,88.419656,Material Awaited
 CMP0747,2026-06-13,West,Ward-17,Behala,Traffic Signal Fault,Traffic Department,Low,Resolved,Rahul Sen,2026-06-22,5.0,22.699681,88.45842,Repaired
-CMP0748,2026-05-01,North,Ward-13,Dum Dum,Water Leakage,Water Department,Medium,In Progress,Priya Sharma,,,22.549468,88.319695,Work Completed
+CMP0748,2026-01-05,North,Ward-13,Dum Dum,Water Leakage,Water Department,Medium,In Progress,Priya Sharma,,,22.549468,88.319695,Work Completed
 CMP0749,2026-04-07,North,Ward-11,Dum Dum,Park Maintenance,Parks Department,High,Resolved,Arjun Roy,2026-04-13,5.0,22.619676,88.383865,Team Assigned
 CMP0750,2026-04-18,Central,Ward-6,Park Street,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-04-26,5.0,22.530909,88.434031,Material Awaited
 CMP0751,2026-02-12,East,Ward-19,New Town,Traffic Signal Fault,Traffic Department,Medium,Resolved,Deepak Bose,2026-02-13,4.0,22.69473,88.406793,Team Assigned
 CMP0752,2026-05-14,Central,Ward-14,Esplanade,Pothole,Road Department,Medium,Open,Rajesh Kumar,,,22.504752,88.341833,Team Assigned
 CMP0753,2026-05-08,South,Ward-13,Garia,Drain Blockage,Sewer Department,Low,In Progress,Vikram Das,,,22.693562,88.329695,Work Completed
-CMP0754,2026-06-09,Central,Ward-5,Esplanade,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.482733,88.347566,Team Assigned
+CMP0754,2026-09-06,Central,Ward-5,Esplanade,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.482733,88.347566,Team Assigned
 CMP0755,2026-02-06,East,Ward-15,Salt Lake,Traffic Signal Fault,Traffic Department,Low,Open,Rahul Sen,,,22.459419,88.367082,Repaired
 CMP0756,2026-05-11,North,Ward-2,Dum Dum,Water Leakage,Water Department,High,Open,Rohit Das,,,22.544851,88.251594,Inspection Pending
 CMP0757,2026-06-02,West,Ward-26,Behala,Street Light Fault,Electricity Department,Low,In Progress,Amit Singh,,,22.451866,88.373409,Inspection Pending
 CMP0758,2026-03-15,North,Ward-28,Dum Dum,Traffic Signal Fault,Traffic Department,Medium,Resolved,Rahul Sen,2026-03-19,3.0,22.663102,88.437835,Inspection Pending
-CMP0759,2026-04-03,South,Ward-12,Garia,Drain Blockage,Sewer Department,Medium,Open,Vikram Das,,,22.603335,88.418704,Material Awaited
+CMP0759,2026-03-04,South,Ward-12,Garia,Drain Blockage,Sewer Department,Medium,Open,Vikram Das,,,22.603335,88.418704,Material Awaited
 CMP0760,2026-06-04,West,Ward-19,Behala,Drain Blockage,Sewer Department,Low,Open,Anil Shaw,,,22.542087,88.375576,Material Awaited
 CMP0761,2026-01-27,East,Ward-9,New Town,Pothole,Road Department,Low,Open,Rajesh Kumar,,,22.588861,88.313714,Inspection Pending
 CMP0762,2026-02-25,West,Ward-20,Santragachi,Illegal Dumping,Sanitation Department,High,Resolved,Neha Gupta,2026-02-28,3.0,22.522516,88.281842,Inspection Pending
@@ -767,17 +767,17 @@ CMP0765,2026-04-06,South,Ward-4,Garia,Street Light Fault,Electricity Department,
 CMP0766,2026-04-24,North,Ward-21,Dum Dum,Street Light Fault,Electricity Department,High,Open,Karan Paul,,,22.643523,88.301405,Material Awaited
 CMP0767,2026-06-22,South,Ward-19,Garia,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.60251,88.277614,Work Completed
 CMP0768,2026-04-05,North,Ward-28,Shyambazar,Road Damage,Road Department,High,In Progress,Suresh Roy,,,22.649031,88.346498,Repaired
-CMP0769,2026-01-03,Central,Ward-7,Esplanade,Illegal Dumping,Sanitation Department,High,Open,Neha Gupta,,,22.50956,88.29152,Verified
+CMP0769,2026-03-01,Central,Ward-7,Esplanade,Illegal Dumping,Sanitation Department,High,Open,Neha Gupta,,,22.50956,88.29152,Verified
 CMP0770,2026-02-22,North,Ward-1,Shyambazar,Water Leakage,Water Department,Low,In Progress,Rohit Das,,,22.513488,88.443317,Verified
 CMP0771,2026-01-08,East,Ward-5,New Town,Traffic Signal Fault,Traffic Department,High,Resolved,Deepak Bose,2026-01-10,5.0,22.541813,88.37076,Inspection Pending
-CMP0772,2026-01-04,Central,Ward-2,Esplanade,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.549207,88.431101,Verified
+CMP0772,2026-04-01,Central,Ward-2,Esplanade,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.549207,88.431101,Verified
 CMP0773,2026-03-06,East,Ward-28,New Town,Road Damage,Road Department,High,Resolved,Rajesh Kumar,2026-03-15,5.0,22.593866,88.295822,Verified
-CMP0774,2026-06-12,South,Ward-10,Tollygunge,Park Maintenance,Parks Department,Medium,Open,Arjun Roy,,,22.612872,88.288735,Material Awaited
+CMP0774,2026-12-06,South,Ward-10,Tollygunge,Park Maintenance,Parks Department,Medium,Open,Arjun Roy,,,22.612872,88.288735,Material Awaited
 CMP0775,2026-06-05,East,Ward-18,New Town,Pothole,Road Department,High,Resolved,Suresh Roy,2026-06-12,4.0,22.672288,88.427127,Work Completed
 CMP0776,2026-05-22,West,Ward-10,Behala,Drain Blockage,Sewer Department,Low,Open,Anil Shaw,,,22.625329,88.428267,Verified
 CMP0777,2026-05-24,South,Ward-2,Tollygunge,Park Maintenance,Parks Department,Medium,Open,Arjun Roy,,,22.620177,88.357495,Team Assigned
-CMP0778,2026-05-08,North,Ward-18,Dum Dum,Road Damage,Road Department,Low,In Progress,Suresh Roy,,,22.555452,88.387599,Repaired
-CMP0779,2026-01-02,Central,Ward-17,Park Street,Garbage Overflow,Sanitation Department,Low,Resolved,Neha Gupta,2026-01-03,3.0,22.63797,88.460288,Material Awaited
+CMP0778,2026-08-05,North,Ward-18,Dum Dum,Road Damage,Road Department,Low,In Progress,Suresh Roy,,,22.555452,88.387599,Repaired
+CMP0779,2026-02-01,Central,Ward-17,Park Street,Garbage Overflow,Sanitation Department,Low,Resolved,Neha Gupta,2026-01-03,3.0,22.63797,88.460288,Material Awaited
 CMP0780,2026-05-13,West,Ward-21,Santragachi,Water Leakage,Water Department,Low,In Progress,Priya Sharma,,,22.477171,88.386843,Verified
 CMP0781,2026-05-26,Central,Ward-16,Park Street,Drain Blockage,Sewer Department,Medium,In Progress,Anil Shaw,,,22.604655,88.344653,Material Awaited
 CMP0782,2026-05-14,West,Ward-28,Santragachi,Traffic Signal Fault,Traffic Department,High,Resolved,Rahul Sen,2026-05-19,5.0,22.484354,88.290373,Pending
@@ -788,9 +788,9 @@ CMP0786,2026-06-24,Central,Ward-8,Esplanade,Drain Blockage,Sewer Department,High
 CMP0787,2026-03-15,North,Ward-2,Shyambazar,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.529901,88.428307,Inspection Pending
 CMP0788,2026-02-03,North,Ward-18,Shyambazar,Traffic Signal Fault,Traffic Department,Low,Open,Rahul Sen,,,22.65281,88.258234,Verified
 CMP0789,2026-04-13,South,Ward-13,Garia,Traffic Signal Fault,Traffic Department,High,Open,Deepak Bose,,,22.646987,88.36407,Inspection Pending
-CMP0790,2026-06-07,North,Ward-24,Dum Dum,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.690972,88.343531,Verified
+CMP0790,2026-07-06,North,Ward-24,Dum Dum,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.690972,88.343531,Verified
 CMP0791,2026-06-22,Central,Ward-24,Esplanade,Illegal Dumping,Sanitation Department,Low,In Progress,Neha Gupta,,,22.68166,88.400325,Verified
-CMP0792,2026-01-12,Central,Ward-11,Park Street,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.67726,88.390354,Verified
+CMP0792,2026-12-01,Central,Ward-11,Park Street,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.67726,88.390354,Verified
 CMP0793,2026-03-13,Central,Ward-18,Park Street,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-03-20,5.0,22.452664,88.499328,Team Assigned
 CMP0794,2026-02-09,West,Ward-4,Santragachi,Road Damage,Road Department,High,In Progress,Suresh Roy,,,22.474858,88.287043,Inspection Pending
 CMP0795,2026-06-19,West,Ward-7,Behala,Illegal Dumping,Sanitation Department,Low,In Progress,Pooja Sen,,,22.56315,88.412094,Work Completed
@@ -800,13 +800,13 @@ CMP0798,2026-06-11,West,Ward-6,Behala,Traffic Signal Fault,Traffic Department,Hi
 CMP0799,2026-03-08,East,Ward-15,Salt Lake,Park Maintenance,Parks Department,High,Resolved,Sonia Ghosh,2026-03-17,3.0,22.601474,88.485516,Team Assigned
 CMP0800,2026-04-03,Central,Ward-29,Esplanade,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-04-04,4.0,22.555823,88.438549,Inspection Pending
 CMP0801,2026-04-28,East,Ward-7,Salt Lake,Street Light Fault,Electricity Department,Medium,Resolved,Karan Paul,2026-05-08,3.0,22.573684,88.475163,Work Completed
-CMP0802,2026-02-01,South,Ward-21,Tollygunge,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-02-09,4.0,22.458181,88.482532,Pending
-CMP0803,2026-05-03,North,Ward-3,Dum Dum,Garbage Overflow,Sanitation Department,Medium,Resolved,Neha Gupta,2026-05-09,5.0,22.547544,88.422438,Material Awaited
+CMP0802,2026-01-02,South,Ward-21,Tollygunge,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-02-09,4.0,22.458181,88.482532,Pending
+CMP0803,2026-03-05,North,Ward-3,Dum Dum,Garbage Overflow,Sanitation Department,Medium,Resolved,Neha Gupta,2026-05-09,5.0,22.547544,88.422438,Material Awaited
 CMP0804,2026-02-05,East,Ward-7,New Town,Road Damage,Road Department,High,In Progress,Rajesh Kumar,,,22.585686,88.309288,Work Completed
 CMP0805,2026-06-24,Central,Ward-6,Esplanade,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-07-04,3.0,22.546993,88.312526,Verified
 CMP0806,2026-06-23,West,Ward-19,Behala,Drain Blockage,Sewer Department,High,In Progress,Anil Shaw,,,22.687314,88.302567,Work Completed
 CMP0807,2026-02-09,North,Ward-30,Dum Dum,Sewer Problem,Sewer Department,Low,In Progress,Vikram Das,,,22.572902,88.357837,Material Awaited
-CMP0808,2026-05-01,Central,Ward-25,Park Street,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.644831,88.271085,Verified
+CMP0808,2026-01-05,Central,Ward-25,Park Street,Drain Blockage,Sewer Department,High,Open,Anil Shaw,,,22.644831,88.271085,Verified
 CMP0809,2026-04-20,West,Ward-12,Santragachi,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.650157,88.404879,Material Awaited
 CMP0810,2026-02-01,South,Ward-15,Tollygunge,Traffic Signal Fault,Traffic Department,High,Resolved,Deepak Bose,2026-02-04,3.0,22.544804,88.294896,Work Completed
 CMP0811,2026-03-21,North,Ward-14,Shyambazar,Pothole,Road Department,Low,Open,Rajesh Kumar,,,22.462672,88.26348,Inspection Pending
@@ -814,18 +814,18 @@ CMP0812,2026-06-19,East,Ward-8,New Town,Traffic Signal Fault,Traffic Department,
 CMP0813,2026-05-26,South,Ward-24,Tollygunge,Illegal Dumping,Sanitation Department,Low,Open,Pooja Sen,,,22.651473,88.438633,Inspection Pending
 CMP0814,2026-02-09,West,Ward-17,Santragachi,Park Maintenance,Parks Department,Medium,Resolved,Sonia Ghosh,2026-02-10,5.0,22.693571,88.431608,Team Assigned
 CMP0815,2026-05-08,West,Ward-18,Santragachi,Road Damage,Road Department,Medium,Resolved,Rajesh Kumar,2026-05-11,3.0,22.458978,88.399625,Pending
-CMP0816,2026-01-07,West,Ward-6,Behala,Road Damage,Road Department,Medium,Open,Rajesh Kumar,,,22.461894,88.325763,Work Completed
+CMP0816,2026-07-01,West,Ward-6,Behala,Road Damage,Road Department,Medium,Open,Rajesh Kumar,,,22.461894,88.325763,Work Completed
 CMP0817,2026-04-15,South,Ward-16,Garia,Drain Blockage,Sewer Department,High,Open,Vikram Das,,,22.67664,88.325504,Team Assigned
 CMP0818,2026-03-04,North,Ward-1,Dum Dum,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-03-13,5.0,22.535387,88.298268,Material Awaited
 CMP0819,2026-03-24,West,Ward-21,Santragachi,Sewer Problem,Sewer Department,Low,Open,Vikram Das,,,22.570014,88.484872,Repaired
-CMP0820,2026-04-12,East,Ward-24,Salt Lake,Park Maintenance,Parks Department,Medium,Resolved,Sonia Ghosh,2026-04-13,4.0,22.483817,88.40239,Material Awaited
+CMP0820,2026-12-04,East,Ward-24,Salt Lake,Park Maintenance,Parks Department,Medium,Resolved,Sonia Ghosh,2026-04-13,4.0,22.483817,88.40239,Material Awaited
 CMP0821,2026-01-19,North,Ward-4,Shyambazar,Garbage Overflow,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.662225,88.434529,Material Awaited
 CMP0822,2026-05-25,North,Ward-1,Dum Dum,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.491597,88.441757,Work Completed
-CMP0823,2026-06-10,South,Ward-28,Tollygunge,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.548405,88.269477,Pending
+CMP0823,2026-10-06,South,Ward-28,Tollygunge,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.548405,88.269477,Pending
 CMP0824,2026-01-17,South,Ward-2,Garia,Drain Blockage,Sewer Department,Medium,Open,Anil Shaw,,,22.465425,88.441483,Work Completed
 CMP0825,2026-01-13,East,Ward-21,Salt Lake,Garbage Overflow,Sanitation Department,Medium,Open,Neha Gupta,,,22.522898,88.301861,Inspection Pending
 CMP0826,2026-04-12,East,Ward-13,Salt Lake,Drain Blockage,Sewer Department,Medium,Open,Vikram Das,,,22.620647,88.358419,Pending
-CMP0827,2026-02-01,North,Ward-6,Shyambazar,Road Damage,Road Department,Low,Resolved,Suresh Roy,2026-02-06,3.0,22.61124,88.484761,Material Awaited
+CMP0827,2026-01-02,North,Ward-6,Shyambazar,Road Damage,Road Department,Low,Resolved,Suresh Roy,2026-02-06,3.0,22.61124,88.484761,Material Awaited
 CMP0828,2026-06-28,East,Ward-1,New Town,Drain Blockage,Sewer Department,High,In Progress,Anil Shaw,,,22.559031,88.333637,Verified
 CMP0829,2026-03-22,East,Ward-29,Salt Lake,Street Light Fault,Electricity Department,Low,In Progress,Karan Paul,,,22.477246,88.332375,Work Completed
 CMP0830,2026-03-19,West,Ward-10,Santragachi,Sewer Problem,Sewer Department,High,Resolved,Anil Shaw,2026-03-20,4.0,22.473919,88.292561,Team Assigned
@@ -834,13 +834,13 @@ CMP0832,2026-01-03,North,Ward-8,Dum Dum,Pothole,Road Department,Low,Resolved,Raj
 CMP0833,2026-06-20,East,Ward-17,Salt Lake,Garbage Overflow,Sanitation Department,Low,Open,Neha Gupta,,,22.623743,88.372897,Team Assigned
 CMP0834,2026-06-14,East,Ward-6,New Town,Road Damage,Road Department,Medium,In Progress,Suresh Roy,,,22.504829,88.329539,Repaired
 CMP0835,2026-02-27,West,Ward-11,Behala,Pothole,Road Department,High,Resolved,Suresh Roy,2026-02-28,5.0,22.515878,88.274677,Verified
-CMP0836,2026-06-08,South,Ward-12,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.549939,88.359218,Pending
+CMP0836,2026-08-06,South,Ward-12,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.549939,88.359218,Pending
 CMP0837,2026-01-07,North,Ward-16,Dum Dum,Sewer Problem,Sewer Department,High,Resolved,Vikram Das,2026-01-14,5.0,22.668194,88.3686,Repaired
 CMP0838,2026-05-28,North,Ward-27,Shyambazar,Illegal Dumping,Sanitation Department,High,In Progress,Neha Gupta,,,22.516332,88.416011,Team Assigned
 CMP0839,2026-05-15,West,Ward-30,Behala,Road Damage,Road Department,High,Open,Suresh Roy,,,22.687543,88.485458,Repaired
 CMP0840,2026-01-29,Central,Ward-2,Park Street,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-02-07,3.0,22.561621,88.469842,Inspection Pending
 CMP0841,2026-03-22,Central,Ward-30,Esplanade,Garbage Overflow,Sanitation Department,Low,Resolved,Neha Gupta,2026-03-23,3.0,22.623036,88.345171,Work Completed
-CMP0842,2026-02-01,East,Ward-15,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-02-03,5.0,22.642444,88.451896,Team Assigned
+CMP0842,2026-02-01,East,Ward-15,New Town,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-03-02,5.0,22.642444,88.451896,Team Assigned
 CMP0843,2026-06-26,West,Ward-24,Behala,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.552725,88.498798,Work Completed
 CMP0844,2026-06-25,Central,Ward-25,Esplanade,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.658282,88.291932,Work Completed
 CMP0845,2026-03-20,West,Ward-27,Behala,Traffic Signal Fault,Traffic Department,Medium,Resolved,Deepak Bose,2026-03-24,5.0,22.627947,88.391683,Pending
@@ -848,8 +848,8 @@ CMP0846,2026-05-17,North,Ward-16,Dum Dum,Water Leakage,Water Department,Medium,O
 CMP0847,2026-01-01,North,Ward-3,Shyambazar,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.455186,88.461445,Pending
 CMP0848,2026-01-14,South,Ward-27,Tollygunge,Garbage Overflow,Sanitation Department,High,In Progress,Pooja Sen,,,22.510121,88.305145,Verified
 CMP0849,2026-03-20,West,Ward-16,Santragachi,Illegal Dumping,Sanitation Department,Medium,In Progress,Neha Gupta,,,22.478149,88.393518,Material Awaited
-CMP0850,2026-04-10,South,Ward-28,Tollygunge,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.567122,88.41472,Inspection Pending
-CMP0851,2026-04-03,West,Ward-12,Behala,Road Damage,Road Department,Medium,Open,Suresh Roy,,,22.562007,88.260771,Pending
+CMP0850,2026-10-04,South,Ward-28,Tollygunge,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.567122,88.41472,Inspection Pending
+CMP0851,2026-03-04,West,Ward-12,Behala,Road Damage,Road Department,Medium,Open,Suresh Roy,,,22.562007,88.260771,Pending
 CMP0852,2026-01-30,Central,Ward-6,Esplanade,Drain Blockage,Sewer Department,Medium,In Progress,Vikram Das,,,22.507807,88.497937,Work Completed
 CMP0853,2026-03-26,Central,Ward-13,Park Street,Pothole,Road Department,Low,Open,Suresh Roy,,,22.634438,88.453136,Team Assigned
 CMP0854,2026-03-09,East,Ward-11,Salt Lake,Park Maintenance,Parks Department,Medium,In Progress,Sonia Ghosh,,,22.69408,88.317456,Material Awaited
@@ -861,18 +861,18 @@ CMP0859,2026-01-18,West,Ward-17,Behala,Traffic Signal Fault,Traffic Department,L
 CMP0860,2026-02-15,East,Ward-13,New Town,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.496698,88.452085,Inspection Pending
 CMP0861,2026-04-18,North,Ward-4,Dum Dum,Road Damage,Road Department,Low,Resolved,Rajesh Kumar,2026-04-27,3.0,22.602642,88.334586,Material Awaited
 CMP0862,2026-04-07,North,Ward-24,Dum Dum,Garbage Overflow,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.584816,88.481063,Material Awaited
-CMP0863,2026-01-02,West,Ward-29,Behala,Park Maintenance,Parks Department,High,Resolved,Sonia Ghosh,2026-01-06,3.0,22.624291,88.336654,Pending
+CMP0863,2026-02-01,West,Ward-29,Behala,Park Maintenance,Parks Department,High,Resolved,Sonia Ghosh,2026-06-01,3.0,22.624291,88.336654,Pending
 CMP0864,2026-06-20,East,Ward-19,Salt Lake,Water Leakage,Water Department,Low,Resolved,Rohit Das,2026-06-26,4.0,22.652607,88.437469,Team Assigned
 CMP0865,2026-06-19,East,Ward-23,Salt Lake,Illegal Dumping,Sanitation Department,Low,In Progress,Neha Gupta,,,22.510413,88.45236,Repaired
 CMP0866,2026-04-26,Central,Ward-18,Esplanade,Road Damage,Road Department,Low,Open,Rajesh Kumar,,,22.691001,88.30837,Inspection Pending
-CMP0867,2026-03-01,South,Ward-13,Tollygunge,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-03-11,5.0,22.62952,88.342469,Verified
+CMP0867,2026-03-01,South,Ward-13,Tollygunge,Pothole,Road Department,Medium,Resolved,Suresh Roy,2026-11-03,5.0,22.62952,88.342469,Verified
 CMP0868,2026-04-04,South,Ward-14,Garia,Garbage Overflow,Sanitation Department,Medium,Open,Pooja Sen,,,22.60535,88.337693,Verified
 CMP0869,2026-04-26,West,Ward-27,Behala,Street Light Fault,Electricity Department,Medium,In Progress,Amit Singh,,,22.618507,88.463148,Verified
-CMP0870,2026-06-08,East,Ward-6,Salt Lake,Traffic Signal Fault,Traffic Department,Medium,Open,Rahul Sen,,,22.548866,88.320567,Work Completed
+CMP0870,2026-08-06,East,Ward-6,Salt Lake,Traffic Signal Fault,Traffic Department,Medium,Open,Rahul Sen,,,22.548866,88.320567,Work Completed
 CMP0871,2026-06-03,South,Ward-4,Tollygunge,Park Maintenance,Parks Department,High,In Progress,Arjun Roy,,,22.617532,88.32482,Team Assigned
 CMP0872,2026-06-03,East,Ward-18,New Town,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.451889,88.389864,Pending
 CMP0873,2026-01-14,North,Ward-13,Dum Dum,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.499189,88.291659,Repaired
-CMP0874,2026-02-04,Central,Ward-1,Esplanade,Drain Blockage,Sewer Department,Low,Resolved,Vikram Das,2026-02-11,5.0,22.485699,88.495722,Pending
+CMP0874,2026-02-04,Central,Ward-1,Esplanade,Drain Blockage,Sewer Department,Low,Resolved,Vikram Das,2026-11-02,5.0,22.485699,88.495722,Pending
 CMP0875,2026-02-01,West,Ward-22,Santragachi,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.487316,88.429376,Material Awaited
 CMP0876,2026-03-18,East,Ward-30,New Town,Traffic Signal Fault,Traffic Department,Low,Open,Rahul Sen,,,22.479648,88.326314,Team Assigned
 CMP0877,2026-04-03,West,Ward-11,Santragachi,Pothole,Road Department,High,In Progress,Rajesh Kumar,,,22.584037,88.287849,Verified
@@ -901,7 +901,7 @@ CMP0899,2026-04-11,East,Ward-19,Salt Lake,Sewer Problem,Sewer Department,Medium,
 CMP0900,2026-05-12,West,Ward-11,Behala,Sewer Problem,Sewer Department,High,Resolved,Vikram Das,2026-05-21,5.0,22.633316,88.285672,Work Completed
 CMP0901,2026-01-23,East,Ward-1,New Town,Water Leakage,Water Department,High,Open,Rohit Das,,,22.518699,88.344023,Material Awaited
 CMP0902,2026-02-20,North,Ward-16,Dum Dum,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.583403,88.390429,Verified
-CMP0903,2026-03-03,South,Ward-22,Garia,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-03-10,4.0,22.670008,88.408272,Team Assigned
+CMP0903,2026-03-03,South,Ward-22,Garia,Illegal Dumping,Sanitation Department,High,Resolved,Pooja Sen,2026-10-03,4.0,22.670008,88.408272,Team Assigned
 CMP0904,2026-02-24,West,Ward-23,Santragachi,Street Light Fault,Electricity Department,Medium,Open,Amit Singh,,,22.673282,88.333768,Inspection Pending
 CMP0905,2026-05-29,South,Ward-28,Tollygunge,Illegal Dumping,Sanitation Department,High,Open,Neha Gupta,,,22.552638,88.318213,Work Completed
 CMP0906,2026-06-18,Central,Ward-22,Park Street,Water Leakage,Water Department,Low,Resolved,Rohit Das,2026-06-20,4.0,22.687964,88.478777,Work Completed
@@ -910,7 +910,7 @@ CMP0908,2026-01-13,North,Ward-1,Dum Dum,Road Damage,Road Department,High,Resolve
 CMP0909,2026-02-01,Central,Ward-26,Park Street,Park Maintenance,Parks Department,High,Open,Sonia Ghosh,,,22.683843,88.410917,Work Completed
 CMP0910,2026-04-12,North,Ward-22,Dum Dum,Garbage Overflow,Sanitation Department,Low,In Progress,Pooja Sen,,,22.682138,88.349612,Verified
 CMP0911,2026-03-22,South,Ward-26,Tollygunge,Park Maintenance,Parks Department,Medium,In Progress,Sonia Ghosh,,,22.684646,88.293473,Verified
-CMP0912,2026-02-12,North,Ward-25,Dum Dum,Park Maintenance,Parks Department,High,Open,Arjun Roy,,,22.451622,88.325233,Material Awaited
+CMP0912,2026-12-02,North,Ward-25,Dum Dum,Park Maintenance,Parks Department,High,Open,Arjun Roy,,,22.451622,88.325233,Material Awaited
 CMP0913,2026-02-23,North,Ward-26,Dum Dum,Water Leakage,Water Department,High,Resolved,Rohit Das,2026-02-24,4.0,22.639032,88.389747,Pending
 CMP0914,2026-02-16,East,Ward-22,New Town,Sewer Problem,Sewer Department,Low,Resolved,Anil Shaw,2026-02-23,4.0,22.51414,88.411685,Pending
 CMP0915,2026-06-25,East,Ward-22,Salt Lake,Road Damage,Road Department,High,Resolved,Suresh Roy,2026-07-04,3.0,22.491378,88.289071,Verified
@@ -920,7 +920,7 @@ CMP0918,2026-03-02,West,Ward-22,Behala,Illegal Dumping,Sanitation Department,Hig
 CMP0919,2026-01-18,West,Ward-17,Santragachi,Traffic Signal Fault,Traffic Department,Medium,In Progress,Deepak Bose,,,22.644326,88.39269,Inspection Pending
 CMP0920,2026-04-24,South,Ward-20,Tollygunge,Illegal Dumping,Sanitation Department,High,Open,Pooja Sen,,,22.656956,88.406897,Repaired
 CMP0921,2026-03-15,South,Ward-14,Tollygunge,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-03-21,3.0,22.528558,88.301902,Pending
-CMP0922,2026-05-11,East,Ward-23,New Town,Street Light Fault,Electricity Department,Low,Open,Karan Paul,,,22.657956,88.355077,Pending
+CMP0922,2026-11-05,East,Ward-23,New Town,Street Light Fault,Electricity Department,Low,Open,Karan Paul,,,22.657956,88.355077,Pending
 CMP0923,2026-05-14,South,Ward-6,Tollygunge,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-05-20,5.0,22.574329,88.493858,Verified
 CMP0924,2026-06-06,West,Ward-16,Santragachi,Street Light Fault,Electricity Department,Medium,In Progress,Karan Paul,,,22.506998,88.416487,Work Completed
 CMP0925,2026-03-28,North,Ward-2,Shyambazar,Illegal Dumping,Sanitation Department,High,In Progress,Pooja Sen,,,22.566657,88.258733,Repaired
@@ -930,7 +930,7 @@ CMP0928,2026-05-13,South,Ward-4,Tollygunge,Traffic Signal Fault,Traffic Departme
 CMP0929,2026-01-18,East,Ward-24,Salt Lake,Pothole,Road Department,High,In Progress,Suresh Roy,,,22.472396,88.438104,Repaired
 CMP0930,2026-05-10,North,Ward-23,Shyambazar,Pothole,Road Department,Low,In Progress,Rajesh Kumar,,,22.58873,88.340598,Material Awaited
 CMP0931,2026-02-17,Central,Ward-15,Esplanade,Traffic Signal Fault,Traffic Department,Medium,In Progress,Deepak Bose,,,22.519038,88.395178,Repaired
-CMP0932,2026-01-10,East,Ward-2,Salt Lake,Park Maintenance,Parks Department,Medium,Resolved,Arjun Roy,2026-01-11,4.0,22.456311,88.377901,Material Awaited
+CMP0932,2026-10-01,East,Ward-2,Salt Lake,Park Maintenance,Parks Department,Medium,Resolved,Arjun Roy,2026-01-11,4.0,22.456311,88.377901,Material Awaited
 CMP0933,2026-04-20,West,Ward-18,Behala,Sewer Problem,Sewer Department,Medium,Open,Vikram Das,,,22.555686,88.490188,Work Completed
 CMP0934,2026-06-18,Central,Ward-18,Esplanade,Garbage Overflow,Sanitation Department,Low,In Progress,Neha Gupta,,,22.468986,88.388525,Verified
 CMP0935,2026-03-18,Central,Ward-26,Park Street,Pothole,Road Department,Low,Open,Suresh Roy,,,22.669483,88.317547,Repaired
@@ -941,9 +941,9 @@ CMP0939,2026-04-05,North,Ward-22,Shyambazar,Illegal Dumping,Sanitation Departmen
 CMP0940,2026-06-06,North,Ward-14,Dum Dum,Road Damage,Road Department,High,Open,Rajesh Kumar,,,22.483359,88.334487,Work Completed
 CMP0941,2026-03-18,Central,Ward-12,Esplanade,Street Light Fault,Electricity Department,High,In Progress,Amit Singh,,,22.687648,88.429166,Work Completed
 CMP0942,2026-03-17,Central,Ward-15,Esplanade,Sewer Problem,Sewer Department,Medium,Resolved,Anil Shaw,2026-03-24,3.0,22.600696,88.321482,Verified
-CMP0943,2026-03-05,South,Ward-18,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.598157,88.430992,Inspection Pending
-CMP0944,2026-03-11,South,Ward-20,Garia,Water Leakage,Water Department,Low,In Progress,Priya Sharma,,,22.502584,88.355752,Inspection Pending
-CMP0945,2026-01-04,Central,Ward-27,Park Street,Traffic Signal Fault,Traffic Department,Low,Resolved,Deepak Bose,2026-01-12,3.0,22.617865,88.356584,Pending
+CMP0943,2026-05-03,South,Ward-18,Garia,Garbage Overflow,Sanitation Department,Low,Open,Pooja Sen,,,22.598157,88.430992,Inspection Pending
+CMP0944,2026-11-03,South,Ward-20,Garia,Water Leakage,Water Department,Low,In Progress,Priya Sharma,,,22.502584,88.355752,Inspection Pending
+CMP0945,2026-04-01,Central,Ward-27,Park Street,Traffic Signal Fault,Traffic Department,Low,Resolved,Deepak Bose,2026-12-01,3.0,22.617865,88.356584,Pending
 CMP0946,2026-05-24,South,Ward-29,Garia,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.550916,88.316482,Work Completed
 CMP0947,2026-04-24,West,Ward-6,Santragachi,Street Light Fault,Electricity Department,Low,Resolved,Karan Paul,2026-05-01,3.0,22.58099,88.48964,Verified
 CMP0948,2026-03-19,South,Ward-12,Tollygunge,Road Damage,Road Department,High,Open,Suresh Roy,,,22.626383,88.280781,Team Assigned
@@ -951,7 +951,7 @@ CMP0949,2026-04-08,West,Ward-20,Santragachi,Drain Blockage,Sewer Department,Low,
 CMP0950,2026-01-30,North,Ward-11,Dum Dum,Water Leakage,Water Department,Medium,Open,Rohit Das,,,22.488622,88.386947,Team Assigned
 CMP0951,2026-04-15,Central,Ward-20,Park Street,Garbage Overflow,Sanitation Department,High,Resolved,Neha Gupta,2026-04-16,4.0,22.51062,88.442314,Work Completed
 CMP0952,2026-03-16,Central,Ward-18,Esplanade,Illegal Dumping,Sanitation Department,High,In Progress,Pooja Sen,,,22.51731,88.315862,Pending
-CMP0953,2026-06-04,West,Ward-25,Behala,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.57831,88.473299,Material Awaited
+CMP0953,2026-04-06,West,Ward-25,Behala,Garbage Overflow,Sanitation Department,High,Open,Neha Gupta,,,22.57831,88.473299,Material Awaited
 CMP0954,2026-03-17,West,Ward-23,Behala,Pothole,Road Department,Medium,Open,Suresh Roy,,,22.476341,88.406794,Pending
 CMP0955,2026-05-31,Central,Ward-30,Esplanade,Traffic Signal Fault,Traffic Department,Low,In Progress,Deepak Bose,,,22.605714,88.315768,Team Assigned
 CMP0956,2026-01-09,East,Ward-21,New Town,Sewer Problem,Sewer Department,Medium,In Progress,Vikram Das,,,22.537739,88.394833,Material Awaited
@@ -971,19 +971,19 @@ CMP0969,2026-06-23,West,Ward-11,Behala,Park Maintenance,Parks Department,High,Op
 CMP0970,2026-05-18,North,Ward-30,Dum Dum,Pothole,Road Department,Medium,Resolved,Rajesh Kumar,2026-05-19,5.0,22.623927,88.495322,Verified
 CMP0971,2026-04-01,Central,Ward-20,Esplanade,Road Damage,Road Department,Low,Open,Suresh Roy,,,22.476332,88.447841,Verified
 CMP0972,2026-06-16,South,Ward-26,Garia,Drain Blockage,Sewer Department,Low,Resolved,Vikram Das,2026-06-26,4.0,22.586755,88.306467,Pending
-CMP0973,2026-04-10,North,Ward-21,Shyambazar,Pothole,Road Department,High,Open,Suresh Roy,,,22.524163,88.486839,Team Assigned
+CMP0973,2026-10-04,North,Ward-21,Shyambazar,Pothole,Road Department,High,Open,Suresh Roy,,,22.524163,88.486839,Team Assigned
 CMP0974,2026-04-17,East,Ward-23,Salt Lake,Pothole,Road Department,Low,Resolved,Suresh Roy,2026-04-25,3.0,22.655372,88.285715,Work Completed
 CMP0975,2026-05-03,South,Ward-30,Tollygunge,Road Damage,Road Department,High,In Progress,Rajesh Kumar,,,22.590265,88.362563,Team Assigned
-CMP0976,2026-01-12,South,Ward-24,Tollygunge,Water Leakage,Water Department,Medium,Open,Priya Sharma,,,22.55843,88.484811,Repaired
+CMP0976,2026-12-01,South,Ward-24,Tollygunge,Water Leakage,Water Department,Medium,Open,Priya Sharma,,,22.55843,88.484811,Repaired
 CMP0977,2026-03-08,West,Ward-25,Behala,Traffic Signal Fault,Traffic Department,Medium,In Progress,Rahul Sen,,,22.62901,88.37032,Material Awaited
 CMP0978,2026-03-06,West,Ward-20,Santragachi,Street Light Fault,Electricity Department,Low,Open,Amit Singh,,,22.64585,88.44919,Material Awaited
 CMP0979,2026-03-18,Central,Ward-26,Park Street,Drain Blockage,Sewer Department,Medium,Resolved,Anil Shaw,2026-03-26,4.0,22.582312,88.478059,Material Awaited
 CMP0980,2026-04-06,North,Ward-30,Shyambazar,Sewer Problem,Sewer Department,Medium,Open,Vikram Das,,,22.565857,88.376409,Work Completed
-CMP0981,2026-03-29,Central,Ward-20,Park Street,Water Leakage,Water Department,Low,Resolved,Rohit Das,2026-04-08,4.0,22.573286,88.284826,Repaired
+CMP0981,2026-03-29,Central,Ward-20,Park Street,Water Leakage,Water Department,Low,Resolved,Rohit Das,2026-08-04,4.0,22.573286,88.284826,Repaired
 CMP0982,2026-03-16,East,Ward-27,Salt Lake,Street Light Fault,Electricity Department,High,In Progress,Karan Paul,,,22.666547,88.374366,Pending
 CMP0983,2026-06-15,South,Ward-3,Garia,Street Light Fault,Electricity Department,Medium,Open,Karan Paul,,,22.564456,88.479866,Inspection Pending
 CMP0984,2026-03-09,East,Ward-16,New Town,Illegal Dumping,Sanitation Department,Medium,In Progress,Pooja Sen,,,22.477875,88.308086,Work Completed
-CMP0985,2026-02-01,West,Ward-17,Behala,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.507674,88.373467,Team Assigned
+CMP0985,2026-01-02,West,Ward-17,Behala,Sewer Problem,Sewer Department,Medium,In Progress,Anil Shaw,,,22.507674,88.373467,Team Assigned
 CMP0986,2026-02-25,North,Ward-20,Dum Dum,Traffic Signal Fault,Traffic Department,Low,Open,Rahul Sen,,,22.525504,88.373174,Pending
 CMP0987,2026-03-19,West,Ward-10,Santragachi,Garbage Overflow,Sanitation Department,Medium,Resolved,Pooja Sen,2026-03-23,4.0,22.678771,88.324206,Work Completed
 CMP0988,2026-02-26,East,Ward-16,New Town,Drain Blockage,Sewer Department,Low,In Progress,Vikram Das,,,22.569431,88.353104,Inspection Pending
@@ -996,6 +996,6 @@ CMP0994,2026-06-20,West,Ward-14,Santragachi,Sewer Problem,Sewer Department,Mediu
 CMP0995,2026-02-22,North,Ward-26,Dum Dum,Illegal Dumping,Sanitation Department,Low,Resolved,Neha Gupta,2026-02-27,5.0,22.663966,88.279252,Verified
 CMP0996,2026-05-21,North,Ward-3,Shyambazar,Park Maintenance,Parks Department,Low,Resolved,Sonia Ghosh,2026-05-28,4.0,22.591438,88.442032,Verified
 CMP0997,2026-04-26,North,Ward-11,Dum Dum,Garbage Overflow,Sanitation Department,High,In Progress,Neha Gupta,,,22.624372,88.312461,Material Awaited
-CMP0998,2026-01-03,West,Ward-23,Behala,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-01-04,4.0,22.515797,88.363269,Repaired
+CMP0998,2026-01-03,West,Ward-23,Behala,Water Leakage,Water Department,Low,Resolved,Priya Sharma,2026-04-01,4.0,22.515797,88.363269,Repaired
 CMP0999,2026-02-07,North,Ward-25,Dum Dum,Pothole,Road Department,Low,Resolved,Rajesh Kumar,2026-02-11,5.0,22.638081,88.412919,Work Completed
 CMP1000,2026-03-11,Central,Ward-29,Esplanade,Water Leakage,Water Department,High,Resolved,Priya Sharma,2026-03-20,4.0,22.537165,88.332758,Repaired

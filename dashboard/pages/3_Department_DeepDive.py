@@ -2,6 +2,15 @@
 Page 3: Department Performance, Turnaround Analysis & Officer Scorecards.
 """
 
+import sys
+from pathlib import Path
+
+FILE_DIR = Path(__file__).resolve().parent
+ROOT_DIR = FILE_DIR.parent.parent
+for path in [ROOT_DIR, FILE_DIR.parent, FILE_DIR]:
+    if str(path) not in sys.path:
+        sys.path.insert(0, str(path))
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px

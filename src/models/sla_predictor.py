@@ -23,7 +23,7 @@ from sklearn.metrics import (
     confusion_matrix,
     classification_report,
 )
-from src.core.config import SLA_MODEL_PATH
+from src.core.config import FEATURE_CSV_PATH, SLA_MODEL_PATH
 from src.core.logger import get_logger
 
 logger = get_logger("SLAPredictor")
@@ -185,7 +185,15 @@ class SLAPredictor:
         """Loads trained pipeline."""
         if not path.exists():
             raise FileNotFoundError(f"Model file not found at: {path}")
-        data = joblib.load(path)
+        try:
+            data = joblib.load(path)
+        except (AttributeError, ModuleNotFoundError, ValueError) as error:
+            logger.warning(
+                "Incompatible SLA model artifact (%s); retraining from feature data.",
+                error,
+            )
+            self.train_and_evaluate(pd.read_csv(FEATURE_CSV_PATH))
+            return self
         self.model = data["model"]
         self.metrics = data["metrics"]
         self.feature_importances = data.get("feature_importances", {})

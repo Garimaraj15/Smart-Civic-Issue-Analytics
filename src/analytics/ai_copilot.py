@@ -82,7 +82,7 @@ class CivicAICopilot:
             "response": """
 🗺️ **DBSCAN Geospatial Clustering Explained:**
 - **Why DBSCAN?** Standard ward boundaries don't capture real-world infrastructure issues (e.g. a broken water pipeline spans multiple wards). DBSCAN finds density-based clusters of any shape without needing predetermined cluster counts (unlike K-Means).
-- **How it works:** Uses the **Haversine formula** on radian GPS coordinates with an epsilon radius ($\epsilon = 1.5\text{ km}$) and minimum sample count ($8\text{ complaints}$).
+- **How it works:** Uses the **Haversine formula** on radian GPS coordinates with an epsilon radius ($\\epsilon = 1.5\\text{ km}$) and minimum sample count ($8\\text{ complaints}$).
 - **Result:** Pinpoints chronic failure corridors (e.g., repeat pothole zones in Salt Lake) for preventive maintenance contracts.
             """
         },
