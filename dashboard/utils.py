@@ -2,6 +2,16 @@
 Shared UI, Data utilities, and AI Copilot sidebar for the Streamlit Civic Analytics Dashboard.
 """
 
+import sys
+from pathlib import Path
+
+# Add project root to sys.path dynamically for Streamlit Cloud
+FILE_DIR = Path(__file__).resolve().parent
+ROOT_DIR = FILE_DIR.parent
+for p in [ROOT_DIR, FILE_DIR]:
+    if str(p) not in sys.path:
+        sys.path.insert(0, str(p))
+
 import streamlit as st
 import pandas as pd
 from sqlalchemy import text
