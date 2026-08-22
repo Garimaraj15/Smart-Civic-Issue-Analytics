@@ -3,10 +3,25 @@ Smart Civic Issue Analytics - Web Application Entrypoint.
 A modern, production-grade analytical platform and predictive civic intelligence system.
 """
 
+import sys
+from pathlib import Path
+
+# Add project root and dashboard directory to sys.path dynamically for Streamlit Cloud
+FILE_DIR = Path(__file__).resolve().parent
+ROOT_DIR = FILE_DIR.parent
+for p in [ROOT_DIR, FILE_DIR]:
+    if str(p) not in sys.path:
+        sys.path.insert(0, str(p))
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from dashboard.utils import load_data, apply_custom_css, render_kpi_card, render_ai_copilot_sidebar
+
+try:
+    from dashboard.utils import load_data, apply_custom_css, render_kpi_card, render_ai_copilot_sidebar
+except ImportError:
+    from utils import load_data, apply_custom_css, render_kpi_card, render_ai_copilot_sidebar
+
 from src.analytics.kpis import CivicKPIEngine
 
 st.set_page_config(
