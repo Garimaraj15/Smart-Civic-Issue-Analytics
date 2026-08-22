@@ -55,9 +55,13 @@ flowchart LR
     F --> G[Interactive Streamlit Dashboard + AI Copilot]
     E --> G
     E --> H[Power BI Desktop Report]
-📂 Project Structure
+```
 
+---
 
+## 📂 Project Structure
+
+```
 Smart-Civic-Issue-Analytics/
 │
 ├── data/
@@ -123,66 +127,73 @@ Smart-Civic-Issue-Analytics/
 ├── run_pipeline.py                      # Master automated CLI pipeline
 ├── requirements.txt                     # Dependency specifications
 └── README.md                            # Complete Project Documentation
-⚡ Quickstart & Installation
-1. Clone & Set Up Environment
-bash
+```
 
+---
 
+## ⚡ Quickstart & Installation
+
+### 1. Clone & Set Up Environment
+```bash
 git clone https://github.com/your-username/Smart-Civic-Issue-Analytics.git
 cd Smart-Civic-Issue-Analytics
+
 # Create virtual environment (optional)
 python -m venv venv
 venv\Scripts\activate      # Windows
 # source venv/bin/activate # macOS/Linux
+
 # Install dependencies
 pip install -r requirements.txt
-2. Run the End-to-End Pipeline
+```
+
+### 2. Run the End-to-End Pipeline
 Execute data validation, cleaning, feature engineering, ML model training, and database seeding in one command:
-
-bash
-
-
+```bash
 python run_pipeline.py
-3. Launch the Interactive Web Dashboard (with AI Copilot)
-bash
+```
 
-
+### 3. Launch the Interactive Web Dashboard (with AI Copilot)
+```bash
 streamlit run dashboard/app.py
-4. Run Automated Test Suite
-bash
+```
 
-
+### 4. Run Automated Test Suite
+```bash
 python -m pytest tests/ -v
-🤖 How the Embedded AI Copilot Works
-When you open the web application (streamlit run dashboard/app.py), the AI Copilot is available across all pages:
+```
 
-Sidebar Helper on Every Page:
-Click 📖 Explain Page to instantly get an executive breakdown of all charts and numbers on the screen.
-Click 💼 Interview Tips to see how to talk about that specific screen during job interviews.
-Type custom questions in English or Hinglish (e.g. "Road department kyu slow hai?", "How does DBSCAN clustering work?").
-Dedicated Full-Screen AI Tutor (7_Civic_AI_Copilot):
-Direct interactive conversational interface with pre-built FAQ chips covering architecture, SLA logic, and machine learning models.
-🎯 Placement & Interview Resources
+---
+
+## 🤖 How the Embedded AI Copilot Works
+
+When you open the web application (`streamlit run dashboard/app.py`), the **AI Copilot** is available across all pages:
+1. **Sidebar Helper on Every Page:**
+   - Click **`📖 Explain Page`** to instantly get an executive breakdown of all charts and numbers on the screen.
+   - Click **`💼 Interview Tips`** to see how to talk about that specific screen during job interviews.
+   - Type custom questions in **English or Hinglish** (e.g. *"Road department kyu slow hai?"*, *"How does DBSCAN clustering work?"*).
+2. **Dedicated Full-Screen AI Tutor (`7_Civic_AI_Copilot`):**
+   - Direct interactive conversational interface with pre-built FAQ chips covering architecture, SLA logic, and machine learning models.
+
+---
+
+## 🎯 Placement & Interview Resources
+
 Check out the dedicated documentation created for job interviews and portfolio presentations:
+- 📖 [**Placement & Interview Prep Guide**](docs/INTERVIEW_PREP_GUIDE.md): 20+ technical and behavioral questions answered with the STAR framework.
+- 📄 [**Resume-Ready Bullet Points**](docs/RESUME_POINTS.md): Action-oriented, metric-driven bullet points tailored for Data Analyst, BI, and Data Science roles.
+- 📊 [**DAX Measures Reference**](powerbi/DAX_Measures_Reference.md): Complete breakdown of DAX calculations used in the Power BI dashboard.
+- 📑 [**Portfolio Case Study**](docs/PORTFOLIO_CASE_STUDY.md): In-depth case study suitable for portfolio websites and LinkedIn.
 
-📖 
-Placement & Interview Prep Guide
-: 20+ technical and behavioral questions answered with the STAR framework.
-📄 
-Resume-Ready Bullet Points
-: Action-oriented, metric-driven bullet points tailored for Data Analyst, BI, and Data Science roles.
-📊 
-DAX Measures Reference
-: Complete breakdown of DAX calculations used in the Power BI dashboard.
-📑 
-Portfolio Case Study
-: In-depth case study suitable for portfolio websites and LinkedIn.
-👩‍💻 Author & Contact
-Garima Raj
-B.Tech CSE (Data Science) | Heritage Institute of Technology
-Specializing in Data Analytics, Business Intelligence & Applied Machine Learning
+---
 
-📄 License
-This project is open-source under the 
-MIT License
-.
+## 👩‍💻 Author & Contact
+
+**Garima Raj**  
+B.Tech CSE (Data Science) | Heritage Institute of Technology  
+*Specializing in Data Analytics, Business Intelligence & Applied Machine Learning*
+
+---
+
+## 📄 License
+This project is open-source under the [MIT License](LICENSE).
