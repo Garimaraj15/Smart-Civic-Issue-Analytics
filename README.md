@@ -8,7 +8,7 @@
 [![Tests](https://img.shields.io/badge/Pytest-Passing%20100%25-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-> An enterprise-grade, end-to-end municipal intelligence, predictive dispatching, and geospatial analytics platform. Designed to monitor civic health, optimize municipal resource allocation, predict SLA breach risks at ticket registration, and enhance citizen satisfaction.
+> An enterprise-grade, end-to-end municipal intelligence, predictive dispatching, and geospatial analytics platform. Features real-time SLA breach risk forecasting, DBSCAN spatial hotspot clustering, automated data quality validation, advanced SQL analytics, and an **embedded interactive AI Copilot on every dashboard page**.
 
 ---
 
@@ -25,10 +25,11 @@
 
 ## 🚀 Key Technical Highlights & Capabilities
 
-- 🤖 **Predictive SLA Breach Classifier (Random Forest & Gradient Boosting):** Accurately classifies whether an incoming civic ticket will breach the 3-day SLA threshold at the time of lodging (**F1-Score: 0.77**, Test Accuracy: **64.2%**).
+- 🤖 **Embedded AI Copilot & Interactive Assistant on Every Page:** A persistent, context-aware AI assistant integrated directly into the sidebar of every single page. Users and interviewers can click **"Explain Page"**, ask questions in English or Hinglish (e.g., *"Is graph ka matlab kya hai?"*, *"Why is SLA breach 68%?"*), and get instant data-backed explanations and interview talking points.
+- 🎯 **Predictive SLA Breach Classifier (Random Forest & Gradient Boosting):** Accurately classifies whether an incoming civic ticket will breach the 3-day SLA threshold at the time of lodging (**F1-Score: 0.78**, Test Accuracy: **64.2%**).
 - ⏱️ **Resolution Turnaround Estimator:** Supervised regressor forecasting repair duration (MAE: 2.4 days) to dynamically set expectations for citizens and dispatchers.
 - 🗺️ **Geospatial GIS & DBSCAN Hotspot Clustering:** Detects chronic infrastructure failure zones across municipal coordinates using Haversine distance clustering, identifying recurring pothole corridors and drainage blockages.
-- 💻 **Interactive Multi-Page Streamlit Web App:** 6 interactive modules with live filters, interactive Plotly charts, GIS heatmaps, an AI predictive sandbox, and an in-browser SQL query lab.
+- 💻 **Interactive Multi-Page Streamlit Web App:** 7 interactive modules with live filters, interactive Plotly charts, GIS heatmaps, an AI predictive sandbox, an in-browser SQL query lab, and a dedicated AI Project Tutor.
 - 🗄️ **Advanced SQL Analytics Suite:** Enterprise Star Schema (`fact_complaints`, dimension tables) and 15+ complex SQL analytics using Window Functions (`DENSE_RANK()`, `NTILE()`, `LAG()`, `ROWS BETWEEN 6 PRECEDING AND CURRENT ROW`).
 - 🛡️ **Automated Data Quality & Validation Engine:** 10-point schema profiler, anomaly detection (negative turnaround prevention, GPS bounding validation), and automated audit reporting.
 - 🧪 **Pytest Automated Test Suite:** 100% passing test coverage across data cleaners, feature calculations, ML inference pipelines, and database connectivity.
@@ -43,24 +44,20 @@ flowchart LR
     B --> C[Data Cleaner & Imputer]
     C --> D[Feature Engineering 25+ Features]
     D --> E[(Analytical DB - SQLite/MySQL)]
-    D --> F[ML Predictive Engine]
+    D --> F[Machine Learning Engine]
     
-    subgraph Machine Learning
-        F1[SLA Breach Classifier]
-        F2[Turnaround Estimator]
-        F3[DBSCAN GIS Hotspots]
+    subgraph Machine Learning Engine
+        F1[SLA Breach Classifier - Random Forest]
+        F2[Turnaround Estimator - Regressor]
+        F3[DBSCAN GIS Hotspot Clustering]
     end
     
-    F --> G[Interactive Streamlit Dashboard]
+    F --> G[Interactive Streamlit Dashboard + AI Copilot]
     E --> G
     E --> H[Power BI Desktop Report]
-```
+📂 Project Structure
 
----
 
-## 📂 Project Structure
-
-```
 Smart-Civic-Issue-Analytics/
 │
 ├── data/
@@ -84,20 +81,22 @@ Smart-Civic-Issue-Analytics/
 │   │   ├── sla_predictor.py             # Random Forest SLA classifier
 │   │   ├── resolution_estimator.py      # Turnaround regressor
 │   │   └── cluster_analyzer.py          # DBSCAN geospatial clustering
-│   └── analytics/                       # KPI engines & time series
+│   └── analytics/                       # KPI engines, trends & AI Copilot
 │       ├── kpis.py
-│       └── time_series.py
+│       ├── time_series.py
+│       └── ai_copilot.py                # AI Explainer & Domain Assistant Engine
 │
 ├── dashboard/                           # Multi-Page Streamlit Application
-│   ├── app.py                           # Command Center & navigation
-│   ├── utils.py                         # UI styles and cached loaders
+│   ├── app.py                           # Command Center & navigation (with AI Copilot)
+│   ├── utils.py                         # UI styles, cached loaders & Sidebar AI Assistant
 │   └── pages/
-│       ├── 1_Executive_Overview.py      # Macro KPIs, SLA rates, trends
-│       ├── 2_Geospatial_Explorer.py     # Interactive Folium heatmaps & GIS
-│       ├── 3_Department_DeepDive.py     # Turnaround boxplots & officer scorecards
-│       ├── 4_AI_Predictive_Studio.py    # Real-time ML risk inference simulator
-│       ├── 5_Citizen_Sentiment.py       # Satisfaction drivers & rating analytics
-│       └── 6_SQL_Analytics_Lab.py       # Live in-browser SQL query lab
+│       ├── 1_Executive_Overview.py      # Macro KPIs, SLA rates, trends (with AI Copilot)
+│       ├── 2_Geospatial_Explorer.py     # Interactive Folium heatmaps & GIS (with AI Copilot)
+│       ├── 3_Department_DeepDive.py     # Turnaround boxplots & officer scorecards (with AI Copilot)
+│       ├── 4_AI_Predictive_Studio.py    # Real-time ML risk inference simulator (with AI Copilot)
+│       ├── 5_Citizen_Sentiment.py       # Satisfaction drivers & rating analytics (with AI Copilot)
+│       ├── 6_SQL_Analytics_Lab.py       # Live in-browser SQL query lab (with AI Copilot)
+│       └── 7_Civic_AI_Copilot.py        # Dedicated Full-Screen AI Project Tutor & Chat
 │
 ├── sql/
 │   ├── schema_and_views.sql             # Star schema, indexes, reporting views
@@ -120,64 +119,70 @@ Smart-Civic-Issue-Analytics/
 │   └── test_db.py
 │
 ├── .env.example                         # Environment configuration template
+├── .gitignore                           # Git ignore rules for clean deployment
 ├── run_pipeline.py                      # Master automated CLI pipeline
 ├── requirements.txt                     # Dependency specifications
-└── README.md                            # Project documentation
-```
+└── README.md                            # Complete Project Documentation
+⚡ Quickstart & Installation
+1. Clone & Set Up Environment
+bash
 
----
 
-## ⚡ Quickstart & Installation
-
-### 1. Clone & Set Up Environment
-```bash
 git clone https://github.com/your-username/Smart-Civic-Issue-Analytics.git
 cd Smart-Civic-Issue-Analytics
-
 # Create virtual environment (optional)
 python -m venv venv
 venv\Scripts\activate      # Windows
 # source venv/bin/activate # macOS/Linux
-
 # Install dependencies
 pip install -r requirements.txt
-```
-
-### 2. Run the End-to-End Pipeline
+2. Run the End-to-End Pipeline
 Execute data validation, cleaning, feature engineering, ML model training, and database seeding in one command:
-```bash
+
+bash
+
+
 python run_pipeline.py
-```
+3. Launch the Interactive Web Dashboard (with AI Copilot)
+bash
 
-### 3. Launch the Interactive Web Dashboard
-```bash
+
 streamlit run dashboard/app.py
-```
+4. Run Automated Test Suite
+bash
 
-### 4. Run Automated Test Suite
-```bash
+
 python -m pytest tests/ -v
-```
+🤖 How the Embedded AI Copilot Works
+When you open the web application (streamlit run dashboard/app.py), the AI Copilot is available across all pages:
 
----
-
-## 🎯 Placement & Interview Resources
-
+Sidebar Helper on Every Page:
+Click 📖 Explain Page to instantly get an executive breakdown of all charts and numbers on the screen.
+Click 💼 Interview Tips to see how to talk about that specific screen during job interviews.
+Type custom questions in English or Hinglish (e.g. "Road department kyu slow hai?", "How does DBSCAN clustering work?").
+Dedicated Full-Screen AI Tutor (7_Civic_AI_Copilot):
+Direct interactive conversational interface with pre-built FAQ chips covering architecture, SLA logic, and machine learning models.
+🎯 Placement & Interview Resources
 Check out the dedicated documentation created for job interviews and portfolio presentations:
-- 📖 [**Placement & Interview Prep Guide**](docs/INTERVIEW_PREP_GUIDE.md): 20+ technical and behavioral questions answered with the STAR framework.
-- 📄 [**Resume-Ready Bullet Points**](docs/RESUME_POINTS.md): Action-oriented, metric-driven bullet points tailored for Data Analyst, BI, and Data Science roles.
-- 📊 [**DAX Measures Reference**](powerbi/DAX_Measures_Reference.md): Complete breakdown of DAX calculations used in the Power BI dashboard.
-- 📑 [**Portfolio Case Study**](docs/PORTFOLIO_CASE_STUDY.md): In-depth case study suitable for portfolio websites and LinkedIn.
 
----
+📖 
+Placement & Interview Prep Guide
+: 20+ technical and behavioral questions answered with the STAR framework.
+📄 
+Resume-Ready Bullet Points
+: Action-oriented, metric-driven bullet points tailored for Data Analyst, BI, and Data Science roles.
+📊 
+DAX Measures Reference
+: Complete breakdown of DAX calculations used in the Power BI dashboard.
+📑 
+Portfolio Case Study
+: In-depth case study suitable for portfolio websites and LinkedIn.
+👩‍💻 Author & Contact
+Garima Raj
+B.Tech CSE (Data Science) | Heritage Institute of Technology
+Specializing in Data Analytics, Business Intelligence & Applied Machine Learning
 
-## 👩‍💻 Author & Contact
-
-**Garima Raj**  
-B.Tech CSE (Data Science) | Heritage Institute of Technology  
-*Specializing in Data Analytics, Business Intelligence & Applied Machine Learning*
-
----
-
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+📄 License
+This project is open-source under the 
+MIT License
+.
