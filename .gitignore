@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and Secrets
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Database files (optional - SQLite db can be generated via run_pipeline.py)
+*.db-journal
+
+# Operating System Files
+.DS_Store
+Thumbs.db

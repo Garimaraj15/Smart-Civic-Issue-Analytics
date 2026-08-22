@@ -1,0 +1,27 @@
+{
+    "total_records": 1005,
+    "total_features": 15,
+    "duplicate_records": 5,
+    "mandatory_missing_values": 0,
+    "missing_per_column": {
+        "Complaint_ID": 0,
+        "Complaint_Date": 0,
+        "District": 0,
+        "Ward": 0,
+        "Area": 0,
+        "Issue_Type": 0,
+        "Department": 6,
+        "Priority": 0,
+        "Status": 0,
+        "Assigned_Officer": 3,
+        "Resolution_Date": 681,
+        "Citizen_Rating": 681,
+        "Latitude": 0,
+        "Longitude": 0,
+        "Remarks": 2
+    },
+    "geospatial_anomalies": 0,
+    "date_sequence_anomalies": 4,
+    "data_quality_score": 78.0,
+    "status": "ACTION_REQUIRED"
+}
