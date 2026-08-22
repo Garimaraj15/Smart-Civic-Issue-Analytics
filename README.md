@@ -177,14 +177,13 @@ When you open the web application (`streamlit run dashboard/app.py`), the **AI C
 
 ---
 
-## 🎯 Placement & Interview Resources
+## 📚 Project Documentation & Technical Deep-Dives
 
-Check out the dedicated documentation created for job interviews and portfolio presentations:
-- 📖 [**Placement & Interview Prep Guide**](docs/INTERVIEW_PREP_GUIDE.md): 20+ technical and behavioral questions answered with the STAR framework.
-- 📄 [**Resume-Ready Bullet Points**](docs/RESUME_POINTS.md): Action-oriented, metric-driven bullet points tailored for Data Analyst, BI, and Data Science roles.
-- 📊 [**DAX Measures Reference**](powerbi/DAX_Measures_Reference.md): Complete breakdown of DAX calculations used in the Power BI dashboard.
-- 📑 [**Portfolio Case Study**](docs/PORTFOLIO_CASE_STUDY.md): In-depth case study suitable for portfolio websites and LinkedIn.
+Check out the detailed technical architecture and business impact analysis:
 
+- 📊 [**Power BI & DAX Calculations Reference**](powerbi/DAX_Measures_Reference.md): Complete breakdown of DAX formulas, measures, and data model schema.
+- 📑 [**Executive Case Study & Business Impact**](docs/PORTFOLIO_CASE_STUDY.md): In-depth analytical case study on municipal turnaround optimization.
+- 💡 [**Technical Architecture & System Design FAQ**](docs/INTERVIEW_PREP_GUIDE.md): Deep-dive into data cleaning trade-offs, model metric selection (ROC-AUC vs F1), and SQL window functions.
 ---
 
 ## 👩‍💻 Author & Contact
